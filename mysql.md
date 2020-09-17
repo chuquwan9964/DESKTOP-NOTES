@@ -698,7 +698,6 @@ mod(10,-3)	//1
 
 ```
 select now();	// 2020-04-04 22:24:49
-
 ```
 
 
@@ -2410,6 +2409,138 @@ mysqld --initiallize-insecure --user=mysql --basedir=/app/database/mysql --datad
 
 mysqladmin -u root -p password	your_password #指定密码
 ```
+
+
+
+
+
+##### 存储引擎
+
+###### 查看支持的存储引擎
+
+​	show engines
+
+###### 查看默认的存储引擎
+
+​	select @@default_storage_engine
+
+###### 设置默认存储引擎
+
+​	set default_storage_engine=innodb			仅当前会话有效
+
+​	set global default_storage_engine=innodb	以后登录的会话有效，在此mysql程序运行期间
+
+
+
+​	如果想永久有效，修改配置文件
+
+```bash
+vim /etc/my.cnf
+[mysql]
+default_storage_engine=innodb
+```
+
+
+
+###### 修改已经存在的表的存储引擎
+
+​	也可以用来整理由于delete操作产生的碎片(delete操作不会真正的物理删除)
+
+```sql
+alter table TABLE_NAME engine=ENGINE_NAME
+```
+
+
+
+
+
+###### 查看表空间存储模式
+
+​	独立表空间
+
+​		mysql5.6之后
+
+​		用户表有自己独立的表空间文件
+
+​	共享表空间
+
+​		mysql5.5之后引入
+
+​		用户表和系统表数据和索引存储在一个表空间文件中，是数据目录下的ibdata1
+
+
+
+```sql
+MariaDB [information_schema]> select @@innodb_file_per_table;
++-------------------------+
+| @@innodb_file_per_table |
++-------------------------+
+|                       0 |
++-------------------------+
+1 row in set (0.01 sec)
+
+# 1表示是独立的，0表示是共享的
+```
+
+
+
+###### 调整共享表空间的大小和数量
+
+​	下次共享表空间扩展的时候就不需要再去现要
+
+```bash
+vim /etc/my.cnf
+[mysql]
+innodb_data_file_path=ibdata1:128M;ibdata2:128M;ibdata3:128M;autoextend
+```
+
+
+
+###### redo log
+
+​	重写日志，在数据库发生修改事务操作时(不显示声明事务也会有一个隐式事务)，mysql不会立即将commit后的数据写回磁盘，而是写到redo log buffer中(redo log中存放的是数据修改的信息)，并根据**innodb_flush_log_at_trx_commit**的值来选择将redo log写回磁盘，那么当服务器异常宕机后，mysql就会比较redo log文件中的日志版本(LSN)和数据文件中的日志版本，如果不一致，就实施自动故障恢复(CSR)(将没有及时写回磁盘的数据写回)
+
+
+
+​	innodb_flush_log_at_trx_commit = 0/1/2
+
+​	1.:在每次事务提交时，会立即刷新redo buffer到磁盘，commit才能成功
+
+​	0: 每秒刷新redo buffer到os cache， 再fsync()到磁盘，异常宕机时，会有可能导致丢失1s内的事务
+
+​	2: 每次事务提交，都立即刷新redo buffer 到os cache， 再每秒fsync()
+
+###### uodo log
+
+
+
+
+
+##### 隔离级别 
+
+​	Read Uncommitted		读未提交
+
+​		不能避免    **脏读**，**不可重复读**，**幻读**
+
+​	Read Committed			读已提交
+
+​		不能避免  **不可重复读**，**幻读**
+
+​	Repeatable Read			可重复读
+
+​		不能避免  **幻读**（但是加锁可以避免幻读，下面有例子）
+
+​	Serializable Read			串行化
+
+
+
+```sql
+set session transaction isolation level read committed;	# 设置默认隔离级别 
+```
+
+
+
+
 
 
 

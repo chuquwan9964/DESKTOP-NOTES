@@ -133,6 +133,17 @@ $ git ls-tree master -r
 
 ​	--hard
 
+```bash
+git reset --hard HEAD^	# 回退到上一个版本
+git reset --hard HEAD^^	# 回退到前两个版本
+```
+
+
+
+
+
+
+
 ##### git remote add
 
 ​	添加远程仓库地址
@@ -162,15 +173,17 @@ From https://github.com/paulboone/ticgit
  * [new branch]      ticgit     -> pb/ticgit
 ```
 
-
-
-##### git merge
-
 ##### git pull
 
 ##### git push
 
 ​	git push 	\<remote_address\>	\<branch_name\>
+
+```bash
+git push origin --delete serverfix	# 删除远程服务器的分支
+```
+
+
 
 
 
@@ -245,4 +258,89 @@ git push origin --tags	#推送当前所有的标签到远程仓库
 ```
 
 
+
+
+
+##### git branch
+
+​	git branch  [argument]   \[branch_name\]
+
+​	-d	branch_name	删除分支
+
+​	--merge			查看已经合并到当前分支的分支
+
+​	--no-merge			查看没有合并到当前分支的分支
+
+​	--no-ff				不使用fast-forward合并分支，而是创建一个新的提交
+
+​	-m	old_name	new_name		改名
+
+
+
+##### git merge
+
+​	git merge branch_name	将指定分支合并到当前HEAD指向的分支
+
+
+
+##### git checkout
+
+​	git checkout	[argument]	\[branch_name\]
+
+​	-b	branch_name	此命令相当于:	git branch 与git checkout
+
+```bash
+$ git checkout -b iss53	#相当于下面的两条命令
+
+$ git branch iss53
+$ git checkout iss53
+```
+
+
+
+##### git stash
+
+​	临时保存工作现场，因为在一个branch中如果有未tracked的文件，这个时候如果我们需要切换到其他分支进行工作时，是不能切换的，所以需要临时保存现场
+
+​	list						列出所有的保存信息列表
+
+​	save	comment		保存当前的工作进度至信息列表					
+
+​	pop					取出第一个保存的信息，并且从列表删除
+
+​	apply [stash@{n}]		应用列表中的第几个信息，不会从列表删除
+
+​	drop stash@{n}		删除列表中的第几个信息(begin from 0)
+
+
+
+```bash
+git stash	# 直接就可以保存
+git stash save 'save1'	# 取个名字保存
+git pop		# 取出
+git apply stash@{0}	# 取出第0个信息
+git drop stash@{0}	# 删除第0个信息
+```
+
+
+
+##### git blame
+
+​	blame(责任)
+
+​	git blame file_name
+
+​	显示此文件的所有修改记录
+
+
+
+
+
+##### git diff
+
+​	什么参数都不加，默认显示工作区与暂存区的文件差异
+
+​	git diff commit_id				比较工作区和版本库(提交区)的差异
+
+​	git diff --cached commit_id	比较暂存区与版本库(提交区)的差异
 

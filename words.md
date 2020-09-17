@@ -483,6 +483,10 @@ benefited for gaining the abilities which he had not before.
 >
 > ​	I recognized her by her red hair.
 > 		我从她的红头发认出了她。
+>
+> ​	The following command line options are recognized:		被识别
+>
+> ​		以下命令行选项被识别
 
 
 
@@ -1450,7 +1454,8 @@ over a period of time	一段时间
 
 ###### diligent 
 
-
+​	英 [ˈdɪlɪdʒənt]   美 [ˈdɪlɪdʒənt] 
+	adj.  勤奋的; 勤勉的; 用功的; 费尽心血的;
 
 ###### forest
 
@@ -1547,6 +1552,10 @@ over a period of time	一段时间
 	vi.  责备; 抱怨; 责骂;
 	vt.  将…围起来; 铺铁轨; 坐火车旅行; 用围栏围;
 	变形 过去分词: railed 复数: rails 过去式: railed 现在分词: railing 第三人称单数: rails
+
+​	`railway station`	火车站
+
+
 
 > 栏杆；扶手；围栏
 >
@@ -1891,6 +1900,12 @@ over a period of time	一段时间
 
 
 
+> 肯定的
+>
+> ​	It is certain that he will win the match
+
+
+
 
 
 ###### skeleton
@@ -1943,6 +1958,13 @@ over a period of time	一段时间
 
 > and informs you that it has not diverged from the same branch on the server
 
+​	英 [ɪnˈfɔːm]   美 [ɪnˈfɔːrm] 
+
+​	v.  通知; 了解; 对…有影响;
+	变形 过去分词: informed 过去式: informed 现在分词: informing 第三人称单数: informs
+
+
+
 ###### vague
 
 > If the `git status` command is too vague for you
@@ -1960,6 +1982,696 @@ over a period of time	一段时间
 > fatal: 'master' does not appear to be a git repository
 
 ###### thirsty
+
+
+
+
+
+##### 12th
+
+> The man who has made up  his mind to win will never say 'impossible'
+
+###### adversity
+
+> Fire is the test of gold; adversity, of strong men.
+
+​	英 [ədˈvɜːsəti]   美 [ədˈvɜːrsəti] 
+
+​	n.  逆境; 不幸; 灾难;
+	变形 复数: adversities
+
+
+
+###### possession
+
+> All customers travelling on TransLink services must be in possession of a valid ticket before boarding
+
+​	英 [pəˈzeʃn]   美 [pəˈzeʃn] 
+
+​	n.  占有; 个人财产控球状态; 持有违禁物; 殖民地; 着魔;
+	变形 复数: possessions
+
+###### in possession of
+
+​	持有
+
+###### argue
+
+​	英 [ˈɑːɡjuː]   美 [ˈɑːrɡjuː] 
+
+​	v.  争论，争吵; 辩论，讨论; 论证; 表明; 主张，认为; 不承认;
+	变形 过去分词: argued 过去式: argued 现在分词: arguing 第三人称单数: argues
+
+​	
+
+###### argument
+
+> Why do people have small talk? 
+>
+> A. To express opinions.	B. To avoid arguments.	C. To show friendliness.
+
+​	英 [ˈɑːɡjumənt]   美 [ˈɑːrɡjumənt] 
+
+​	n.  理由; 论据; 讨论，辩论; 异议; 争论;
+	变形 复数: arguments
+
+
+
+###### board
+
+> All customers travelling on TransLink services must be in possession of a valid ticket before boarding
+
+​	英 [bɔːd]   美 [bɔːrd] 
+
+​	n.  板; 董事会; 甲板; 膳食;
+	vt.  上（船、车或飞机）; 收费供…膳宿; 使搭伙，使寄宿; 强行登（船）;
+	vi.  （火车、轮船、飞机等）接受乘客; 搭伙，寄宿;
+	变形 过去分词: boarded 复数: boards 过去式: boarded 现在分词: boarding 第三人称单数: boards
+
+
+
+###### effort
+
+> While Queensland Rail makes every effort to ensure trains run as scheduled,
+
+​	英 [ˈefət]   美 [ˈefərt] 
+
+​	n.  努力; 吃力; 有组织的行动; 费力的事;
+	变形 复数: efforts
+
+
+
+###### guarantee
+
+> there can be no  guarantee of connections between trains or between train services and bus services.
+
+​	英 [ˌɡærənˈtiː]   美 [ˌɡærənˈtiː] 
+
+​	v.  担保; 提供（产品）保修单; 确保; 承诺对…负法律责任;
+	n.  保证; 保修单; 起保证的事物; 担保金;
+	变形 过去分词: guaranteed 复数: guarantees 过去式: guaranteed 现在分词: guaranteeing 第三人称单数: guarantees
+
+
+
+
+
+###### assistance
+
+> For assistance, please call Queensland Rail on 13 16 17.
+
+​	英 [əˈsɪstəns]   美 [əˈsɪstəns] 
+
+​	n.  帮助; 援助; 支持; 资助; 补助; 辅助;
+
+​	
+
+###### found
+
+> Lipton is planning to depart from the company he founded.  
+
+​	英 [faʊnd]   美 [faʊnd] 
+
+​	v.  建立; 兴建; 创办; 铸造;
+	v.  发现，找到（find过去式）;
+	变形 过去分词: founded 过去式: founded 现在分词: founding 第三人称单数: founds
+
+
+
+
+
+###### depart
+
+​	英 [dɪˈpɑːt]   美 [dɪˈpɑːrt] 
+
+​	v.  离开，出发; 去世; 离职; 脱轨;
+	变形 过去分词: departed 过去式: departed 现在分词: departing 第三人称单数: departs
+
+
+
+###### lie
+
+> The beauty of rereading lies in the idea that ......
+
+​	英 [laɪ]   美 [laɪ] 
+
+​	v.  躺; 被平放; 位于; 处于; 伸展; 排名; **说谎**; 存在; 将发生; 长眠;
+	n.  谎言; 位置;
+	变形 过去分词: lain 过去式: lay 现在分词: lying 第三人称单数: lies
+
+
+
+
+
+###### bond
+
+> The beauty of rereading lies in the idea that our bond with the work is based on our present mental register
+
+​	英 [bɒnd]   美 [bɑːnd] 
+	n.  纽带; 联系; 书面的法律协定; 束缚; 羁绊; 枷锁; 连接; 公债; 债券; 保释金; 按揭贷款; 化学键;
+	v.  与…紧密联系; 使建立亲密关系;
+	变形 过去分词: bonded 复数: bonds 过去式: bonded 现在分词: bonding 第三人称单数: bonds
+
+
+
+> 纽带；联系；关系；契合
+>
+> ​	A bond of friendship had been forged between them.
+> 		他们之间形成了一种友谊的纽带。
+
+
+
+> 债券；公债
+
+
+
+> 保释金
+>
+> ​	He was released on $5 000 bond.
+> 		他以5 000元取保释放。
+
+
+
+> 书面的法律协定（或承诺）
+>
+> ​	We entered into a solemn bond.
+> 		我们缔结了一项严肃的协定。
+
+
+
+
+
+###### forge
+
+	> A bond of friendship had been forged between them.
+
+​	英 [fɔːdʒ]   美 [fɔːrdʒ] 
+
+​	n.  锻造车间; 熔铁炉，锻铁炉; 铁匠铺，铁匠工场;
+	vi.  锻制，锻造; 伪造; 犯伪造罪;
+	vt.  锻造; 伪造; 捏造，编造; 制订;
+
+>  锻造；制作
+>
+> ​	swords forged from steel
+> 		用钢锻造的刀剑
+>
+> ​	A bond of friendship had been forged between them.
+>
+> ​		他们之间建立了友谊纽带
+
+
+
+
+
+
+
+###### mental 
+
+> The beauty of rereading lies in the idea that our bond with the work is based on our present mental(内心的) register
+
+​	英 [ˈmentl]   美 [ˈmentl] 
+
+​	adj.  智力的; 精神健康的; 疯狂的; 极其兴奋的;
+
+
+
+
+
+
+
+###### wing
+
+> It's true, the older I get, the more I feel time has wings.
+
+​	英 [wɪŋ]   美 [wɪŋ] 
+
+​	n.  （机）翼，翅膀; 侧厅，边厢; （汽车）挡泥板; （尤指政治组织的）派; 边锋; 飞行资格;
+	v.  飞（行）; 赶往;
+	变形 过去分词: winged 复数: wings 过去式: winged 现在分词: winging 第三人称单数: wings
+
+
+
+> （鸟、昆虫或蝙蝠）翅膀，翼
+
+
+
+> （飞行器的）翅膀；机翼
+
+
+
+> 建筑物 侧翼部分；侧厅；耳房；厢房
+>
+> ​	the east wing
+> 		东翼楼
+>
+> ​	the new wing of the hospital
+> 		与医院一侧相连的新楼房
+
+
+
+
+
+
+
+
+
+###### dent
+
+> There was a dent in the nearside wing.
+
+​	英 [dent]   美 [dent] 
+
+​	n.  凹痕，凹部; 齿; 减少，削弱; [名]登特;
+	vt.  使产生凹痕; 削弱; 打击，破坏; 产生不好的影响;
+	vi.  出现凹痕; 产生凹陷; 凹进去; 削减;
+	变形 过去分词: dented 复数: dents 过去式: dented 现在分词: denting 第三人称单数: dents
+
+
+
+
+
+###### nearside
+
+​	靠人行道的，左边的
+
+###### annually
+
+> There are three books I reread annually.
+
+​	英 [ˈænjuəli]   美 [ˈænjʊəlɪ] 
+
+​	adv.  每年，每年一次; 一年一度;
+
+
+
+###### memoir
+
+> it's his classic memoir of 1920s Paris.
+
+​	英 [ˈmemwɑ:(r)]   美 [ˈmɛmˌwɑr, -ˌwɔr] 
+
+​	n.  回忆录，自传; 记事录;
+	变形 复数: memoirs
+
+
+
+###### intoxicating
+
+> The language is almost intoxicating
+
+​	英 [ɪnˈtɒksɪkeɪtɪŋ]   美 [ɪnˈtɑksɪkeɪtɪŋ] 
+
+​	adj.  醉人的; 令人陶醉的; 使兴奋的; （指酒类）蒸馏的（非发酵的）;
+	v.  使喝醉( intoxicate的现在分词 ); 使陶醉; 使激动不已; 使欣喜若狂;
+
+
+
+###### ambitious
+
+> an aging writer looking back on an ambitious yet simpler time
+
+​	英 [æmˈbɪʃəs]   美 [æmˈbɪʃəs] 
+
+​	adj.  有雄心的; 有野心的; 费力的; 耗资的;
+
+
+
+
+
+###### poetic
+
+> her poetic' 1975 ramble(随笔) about everything and nothing
+
+​	英 [pəʊˈetɪk]   美 [poʊˈetɪk] 
+
+​	adj.  诗的，韵文的; 有诗意的; 诗人的;
+
+
+
+###### ramble
+
+​	英 [ˈræmbl]   美 [ˈræmbəl] 
+
+​	vi.  漫游; 漫步; 漫谈; 蔓延;
+	n.  漫步; 漫游; 漫谈;
+	变形 过去分词: rambled 过去式: rambled 现在分词: rambling 第三人称单数: rambles
+
+>  It would have been best written in a more concise way as it does tend to ramble
+>
+> ​	它最好是以一种更简洁的方式写的，因为它确实倾向于杂乱无章 
+
+###### tend
+
+​	英 [tend]   美 [tend] 
+
+​	v.  往往会; 倾向于; 个人认为; 护理，照料; 招待;
+	变形 过去分词: tended 过去式: tended 现在分词: tending 第三人称单数: tends
+
+###### infer
+
+> What can we infer about the author from the text?
+
+​	英 [ɪnˈfɜː(r)]   美 [ɪnˈfɜːr] 
+
+​	v.  推断，推理; 暗示;
+	变形 过去分词: inferred 过去式: inferred 现在分词: inferring 第三人称单数: infers
+
+
+
+
+
+###### poetry
+
+> He loves poetry.
+
+​	英 [ˈpəʊətri]   美 [ˈpoʊətri]  
+	n.  诗歌; 诗集; 诗意;
+
+
+
+###### rice
+
+###### race
+
+###### facility
+
+> suffering from this facility
+
+
+
+
+
+
+
+##### 13th
+
+> Do what you say , say what you do
+
+###### discard
+
+​	英 [dɪˈskɑːd , ˈdɪskɑːd]   美 [dɪˈskɑːrd , ˈdɪskɑːrd] 
+
+​	vt.  丢弃，抛弃; 解雇; 出牌;
+	n.  被抛弃的人[物]; 丢弃，抛弃; 打出的牌;
+	vi.  出无用的牌; 垫牌;
+	变形 过去分词: discarded 过去式: discarded 现在分词: discarding 第三人称单数: discards
+
+
+
+###### theory
+
+> Einstein had the chutzpah to discard common sense and long-established theory.  
+
+​	英 [ˈθɪəri]   美 [ˈθiːəri]  
+	n.  学说; 理论; 观点; 猜想;
+	变形 复数: theories
+
+
+
+
+
+###### conflict
+
+​	英 [ˈkɒnflɪkt , kənˈflɪkt]   美 [ˈkɑːnflɪkt , kənˈflɪkt]  
+	n.  争执; 矛盾心理; 冲突; 严重分歧;
+	v.  冲突;
+	变形 过去分词: conflicted 复数: conflicts 过去式: conflicted 现在分词: conflicting 第三人称单数: conflicts
+
+
+
+> noun 冲突；争执；争论
+>
+> ​	a conflict between two cultures
+> 		两种文化的冲突
+>
+> ​	John often comes into conflict with his boss.
+> 		约翰经常和他的老板发生争执。
+
+
+
+> verb	冲突，抵触
+>
+> ​	These results conflict with earlier findings.
+> 		这些结果与早期的发现相矛盾。
+
+
+
+###### consequence
+
+​	英 [ˈkɒnsɪkwəns]   美 [ˈkɑːnsɪkwens]  
+	n.  结果; 重要性;
+	变形 复数: consequences
+
+> 结果；后果
+>
+> ​	This decision could have serious consequences for the industry.
+> 		这项决定可能对该行业造成严重后果。
+
+
+
+###### industry
+
+> This decision could have serious consequences for the industry.
+
+英 [ˈɪndəstri]   美 [ˈɪndəstri]  
+n.  工业; 产业（经济词汇）; 工业界; 勤劳;
+变形 复数: industries
+
+
+
+> 工业；生产制造
+>
+> ​	the needs of British industry
+> 		英国工业的需求
+>
+> ​	She got a job in industry .
+> 		她找了份工厂里的工作。
+
+
+
+> 行业
+>
+> ​	This decision could have serious consequences for the industry.
+
+
+
+> 勤奋；勤劳
+>
+> ​	We were impressed by their industry.
+> 		他们的勤奋给我们留下深刻印象。
+
+
+
+
+
+###### impress
+
+> We were impressed by their industry.
+
+​	英 [ɪmˈpres]   美 [ɪmˈpres]  
+	v.  使敬佩; 给…深刻印象; 使铭记; 使…意识到; 给…留下…印象;
+	变形 过去分词: impressed 过去式: impressed 现在分词: impressing 第三人称单数: impresses
+
+
+
+
+
+###### pronounce
+
+>  Can you tell me how to pronounce this word? 
+
+###### pronunciation
+
+> You're going to have to forgive my pronunciation.  
+> 	你得原谅我的发音。
+
+###### refuse
+
+​	英 [rɪˈfjuːz , ˈrefjuːs]   美 [rɪˈfjuːz , ˈrefjuːs]  
+	v.  拒绝; 回绝;
+	n.  垃圾，废弃物;
+	变形 过去分词: refused 过去式: refused 现在分词: refusing 第三人称单数: refuses
+
+
+
+###### focus
+
+> George is going to talk about the geography of his country, but I'd rather he focused more on its culture.
+
+
+
+###### fellow
+
+> The young man insisted that I (should) go with his fellows.		虚拟语气(insist)
+
+###### insist
+
+> 坚持观点
+
+​	英 [ɪnˈsɪst]   美 [ɪnˈsɪst]  
+	v.  坚持; 坚称说;
+	变形 过去分词: insisted 过去式: insisted 现在分词: insisting 第三人称单数: insists
+
+
+
+###### term
+
+> What are your terms
+
+ 
+
+###### outing
+
+> Whether we will go for an outing tomorrow remains unknown.
+
+
+
+
+
+##### 14th
+
+> 
+
+###### meaning
+
+###### negotiate
+
+> ```
+> ContentNegotiatingViewResolver
+> ```
+
+###### Strategy
+
+> Strategy interface for resolving messages, with support for the parameterization and internationalization of such messages.
+
+###### internationalization
+
+###### parameterization
+
+###### encountered 
+
+> Some problems were encountered(被动语态) while processing the POMs(现在分词作状语加连词)
+
+###### resolution
+
+###### ancestor
+
+> ```
+> beansOfTypeIncludingAncestors
+> ```
+
+
+
+###### raw 
+
+###### material 
+
+> Our next step was to get raw materials ready.
+
+###### weather
+
+###### whether
+
+
+
+
+
+##### 15th
+
+> There is no impossible thing in the world
+
+###### intent
+
+###### series
+
+> a series of	
+
+###### contract
+
+> The detailed contract for a Valve is included in the description of the <code>invoke()</code> method below
+
+###### entire
+
+> An <b>Engine</b> is a Container that represents the entire Catalina servlet engine
+
+###### omit
+
+> The parent Container attached to a Host is generally an Engine, but may be some other implementation, or may be omitted if it is not necessary.
+
+
+
+###### characteristics
+
+>  Its attributes represent the characteristics of the servlet container as a whole. 
+
+
+
+###### facilities
+
+> they are completely independent of each other and share only the basic JVM facilities and classes on the system class path.
+
+
+
+###### significant 
+
+> Interface defining a listener for significant events
+
+
+
+###### enthusiasm
+
+​	英 [ɪnˈθjuːziæzəm]   美 [ɪnˈθuːziæzəm] 
+
+​	n.  热情，热忱; 热衷的事物; 宗教的狂热;
+	变形 复数: enthusiasms
+
+> Success is the ability to go from one failure to another with no loss of enthusiasm
+
+
+
+###### worn
+
+> My uncle is quite worn out from years of hard work.
+
+
+
+###### certificate
+
+> Only graduating from the college,do students recognize the importance of certificate
+
+
+
+###### graduate
+
+​	英 [ˈɡrædʒuət , ˈɡrædʒueɪt]   美 [ˈɡrædʒuət , ˈɡrædʒueɪt] 
+
+​	n.  大学毕业生; 毕业生;
+	v.  获得学位; 授予学位文凭; 中学毕业; 晋升;
+	变形 过去分词: graduated 复数: graduates 过去式: graduated 现在分词: graduating 第三人称单数: graduates
+
+> I graduated from Harvard this year
+>
+> ​	我今年毕业于哈佛
+
+###### performance
+
+> Never had I seen such a performance
+
+
+
+
+
+##### 16th
+
+> Have a good rest rather than study aimlessly	--Give it to you
+
+###### quarter
+
+> It is a quarter past five
+
+###### endless
+
+> I need energy that is endless
 
 
 
@@ -2860,7 +3572,7 @@ a great deal of							只修饰不可数名词
 - to have been doing
 - 表示不定式的动作发生在谓语动词的动作之前，并且将要持续下去
   - Tom seemed to have been reading an essay
-  - He is fount to have been working for 4 hours
+  - He is found to have been working for 4 hours
 
 
 
@@ -2945,6 +3657,9 @@ a great deal of							只修饰不可数名词
 
 ###### 现在分词作定语
 
+- The man standing by the window is my friend
+- A swimming boy       游泳的男孩
+
 `现在分词不能作定语的三种情况`
 
 - 现在分词表示的动作和谓语动词表示的动作是一先一后,不是同时发生,不用现在分词作定语,用定语从句。
@@ -2953,19 +3668,438 @@ a great deal of							只修饰不可数名词
 - 当动词为be时，可以做状语，可以做补语，但是不能做定语
   - 为什么呢?be动词没有实际意义，仅仅是连接主语和表语的词，所以后置定语可以省略being
     - 那为什么可以作状语呢?作状语时需要连接句子成分把
-  - Anybody being outside after ten o'clock will be criticized.	错误
-    - Anybody staying outside after ten o'clock will be criticized.	正确
-    - Anybody outside after ten o'clock will be criticized.	正确
+  		Anybody being outside after ten o'clock will be criticized.	错误
+    	 Anybody staying outside after ten o'clock will be criticized.	正确
+    	 Anybody outside after ten o'clock will be criticized.	正确
   - Anybody who is outside after ten o'clock will be criticized.     错误
 - 表经常性动作，不使用现在分词作定语，使用定语从句
   - 为什么？现在分词加了ing，表示正在进行的动作，与经常性的动作矛盾
   - The boy bringing us milk **everyday** is my brother.        错误
-    - The boy bringing us milk **yesterday** is my brother. 	正确(everyday改为了yesterday，就不是经常性的动作了)
+    - The boy bringing us milk **yesterday** was my brother. 	正确(everyday改为了yesterday，就不是经常性的动作了)
   - The boy who brings us milk everyday is my brother.    错误
+
+
+
+###### 现在分词作状语
+
+- 与谓语动词同时发生，使用一般形式
+
+- 先于谓语动词之前，现在分词要使用完成式
+
+  - 为什么没有像不定式的进行时和现在完成进行时，因为现在分词加了ing就代表了进行时
+  - Having finished his homework，the boy went out to play football
+
+- 现在分词作状语时,其逻辑主语与句子主语必须保持一致。
+
+  - 如果一致，分词逻辑主语可以省略
+
+    - Looking out of the window of our hotel room, we could see lots of mountains around.
+    - They came into the classroom, talking and laughing.
+
+  - 如果不一致,分词应有自己的逻辑主语,构成独立主格结构。
+
+    - Mr. Smith being absent, the meeting had to be put off.	`Mr. Smith being absent`是独立主格结构
+    - It being a fine day, we all wanted to go outing.
+
+    ​
+
+- 现在分词作状语时，前面可用`从属连词`when,while,once等
+
+  - When talking to you，I always feel happy
+  - Be careful while crossing the street
+  - 不可以用`并列连词`and，or，but  
+    - Having been told many times, **but** he still couldn't understand it.	错误
+    - Having been told many times,he still couldn't understand it               正确
+
+
+
+###### 现在分词做表语
+
+- 本质上可以理解为一个adjective，主语和表语不可以互换
+
+
+- The story is interesting
+
+
 
 ##### 过去分词
 
+###### 过去分词作定语
+
+- 表示情绪的过去分词可以做前置定语
+  - Martin's confused sorrows turned to optimism.
+  - He didn't notice the surprised look on her face.
+- 有完成意义的过去分词也可以作定语
+  - the risen sun = the sun that has risen just
+  - an exploded bomb = a bomb that has  exploded (爆炸)
+- 有些以-ed结尾的词，并不是过去分词，而是由名词变来的形容词。
+  - armored cars		装甲车
+  - a gifted boy            有天赋的孩子
+  - salaried class         工薪阶层
+
+
+
+
+
+###### 过去分词作状语
+
+- 过去分词作状语多放在句首，也可以放在句尾
+  - Seen from the hill, the city looks magnificent.
+  - He soon felt asleep, exhausted by the journey.
+- 单独的过去分词作状语
+  - Depressed, he went to see his elder sister.
+  - He turned away, disappointed.
+- 过去分词+连词作状语
+  - I went on talking, though continually interrupted by George.
+  - They would never do this unless compelled.
+- 过去分词可以引导状语从句
+  - Provided (if) there is no opposition, we shall hold the meeting there.
+
 #### 动名词
+
+###### 动名词做表语
+
+- 本质上是一个noun，主语和表语可以互换
+  - My hobby is swimming可以换为Swimming is my hobby
+
+###### 动名词做定语
+
+- 本质上是一个noun
+  - A swimming suit	游泳衣
+
+
+
+
+
+
+
+### 虚拟语气
+
+![59987976907](images\1599879769077.png)
+
+
+
+##### 与现在相反
+
+- If he were here, everything would be all right.
+
+##### 与过去相反
+
+- If her mother had taken the doctor's advice, she would / might have got well earlier
+
+##### 与将来相反
+
+- If it were to rain tomorrow, the match would be canceled.
+
+##### 虚拟语气省略if的情况
+
+- 有时候省略if，从句需要采用`局部倒装`语序，把had/should/were等词移动到从句的句首
+  - Were it to rain tomorrow, our picnic would be canceled.
+    - If it were to rain tomorrow,our picnic would be canceled		与现在相反的虚拟语气
+  - Had it not been for the storm, we would have arrived in time.
+    - If it had not been for the storm,we would have arrived in time.
+  - Should the earth stop running, what would happen?
+    - If the earth should(were to) stop running，what would happen ?
+
+
+
+
+#### 名词性从句中的虚拟语气
+
+- 只能用`should`
+
+##### 表愿望的词使用虚拟语气
+
+- 但不是只要有wish就用虚拟语气，必须是**假的，假的，假的!!!**
+
+
+- I wish I were better-looking
+- I wish I had met the film star just now
+
+
+
+##### 表命令，建议等含义的词在剧句中出现使用虚拟语气
+
+- The young man insisted that I (should) go with his fellows.
+- The doctor advised that he (should) change his job.
+
+##### would rather + did
+
+- George is going to talk about the geography of his country, but I'd rather he focused more on its culture.
+
+##### It be + adj +that ... (should) do(主语从句)
+
+- Don't you think it necessary that he (should) not be sent to Miami but to New York ?
+  - I agree ，but the problem is that/what he has refused to
+
+
+
+#### 状语从句中的虚拟语气
+
+##### if only
+
+​	要是，只要，如果
+
+- If only the player had had more courage
+- If only Daisy would go with me
+
+
+
+##### as if
+
+​	好像
+
+- He talks as if he knew where she was.
+- He talks about Rome as if he had been there before.
+- It looks as if it might snow.
+
+
+
+##### in case/for fear that/lest
+
+​	引导目的状语从句
+
+​	should可以省略
+
+- She took an umbrella with her in case/for fear that/lest it (should) rain
+
+
+
+##### It is time that sb (should do)/(did)
+
+​	是时候 该干什么了
+
+- should 不能省略
+- It is high time that we should be off
+- It is high time that we were of
+  - 是时候该走了
+
+
+
+##### would as soon + did / had done
+
+​	would as soon = would rather = would sooner = would prefer
+
+- I would just as soon you had told me the truth yesterday
+
+
+
+### 从句
+
+##### 定语从句
+
+​	==形容词性从句==
+
+- 引导词
+  - 修饰人
+    - who,whose,whom,that
+      - The boy who are playing basketball is from class one		`who引导，指人`
+      - Mr . Liu is the person (whom) you talked about at bus        `whom引导，指人`
+      - I visited a scientist whose name is known all over the country    `whose作定语，可以指人，也可以指物`
+  - 修饰物
+    - which,that,whose
+      - Football is a game which is liked by most boys
+      - I once lived in a house whose roof has fallen in
+  - 修饰其他
+    - when,where,why
+
+- `定语从句中引导词在从句中做宾语可以省略`
+
+- `介词 + which的形式(必须指物，因为先行词代表人只能用whose)`
+
+  - The classroom which door is broken will be repaired soon
+  - The classroom the door of which is broken will be repaired soon
+  - Do you like the book whose cover is yellow
+  - Do you like the book the cover of which is yellow
+
+- 必须用that情况
+
+  - 有who和which等疑问代词时
+    - Who is the man that is standing by the tree
+    - Which is the T-shirt that fits me most
+  - `当先行词在主句中做表语，或关系代词在从句中做表语`
+    - My uncle is quite worn out from years of hard work.He is no longer the man that he was fifteen years ago
+
+- 只能用who的情况
+
+  - 当先行词为one(s),anyone,those时
+  - 当先行词为人称代词时(he,she)
+
+  ​
+
+##### 状语从句
+
+​	==副词性从句==
+
+###### 时间状语从句
+
+###### 地点状语从句
+
+###### 原因状语从句
+
+###### 结果状语从句
+
+###### 条件状语从句
+
+###### 目的状语从句
+
+###### 比较状语从句
+
+###### 让步状语从句
+
+###### 方式状语从句
+
+
+
+
+
+##### 名词性从句
+
+###### 主语从句
+
+- 引导主语从句连词有that, whether, who, what, whatever,whom等。
+- 主语从句大多数情况下视为第三人称单数,但在连接代词what引导的主语从句后谓语动词的数要根据句意而定。
+- 为了防止句子头重脚轻,通常把形式主语放it在主语位置,真正主语后置。
+- 例句
+  - It is certain that he will win the match
+  - It is true that he made a very important discovery in chemistry
+- ==主语从句的时态不受主句的影响和限制==
+  - Whether we will go for an outing tomorrow remains unknown
+  - Whatever you did is right
+  - Whom the watch belongs to is unknow
+- that引导和what引导的区别
+  - that引导在从句中不做成分，what做成分
+    - What you said yesterday is right	做said的宾语
+    - It is important that he will win
+- 位于句首的主语从句可以使用whether引导，但不能使用if引导
+
+###### 宾语从句
+
+- 动词后加宾语从句
+  - He told me that he would go to the college the next year.
+- 介词后加宾语从句
+  - I have found out that all the tickets for the concert have been sold out.
+- be + 形容词后加宾语从句( be + 形容词可以理解为一个动词)
+  - I am afraid that he can't pass this exam
+- if和whether都可以引导宾语从句，但是介词后的宾语从句只能使用whether引导
+- 当主句是一般现在时或一般将来时的时候，从句可以是任意时态
+  - I think you will be success
+- 当主句是一般过去时的时候，从句必须为过去时的某一时态(一般过去式，过去进行时，过去完成时，过去将来完成时)
+- 动词find, feel, consider, make, believe等后面有宾语补足语的时候，则需要用it做形式宾语而将that宾语从句后置。
+  - I think it necessary that we take plenty of hot water every day .
+  - I feel it a pity that I haven't been to the get-together.
+  - We all find it important that we (should) make a quick decision about this mater.
+- 否定转移    think, believe, imagine, suppose, consider, expect, guess等。
+  - I don't think he will come to my party
+  - I don't believe that man is killed by Jim,is he?
+- `that在绝大多数情况下都能省略，但是以下三种情况不能省略`
+  - `谓语动词后有两个并列的宾语从句`
+    - I believe that he will win and that things will be ok
+  - `it做形式宾语`
+    - I think it necessary that we take plenty of hot water every day .
+  - `宾语从句前置`
+    - That she is beautiful girl,I think
+
+###### 表语从句
+
+- 例句
+  - This is what I want
+  - Next Sunday is when we shall meet
+
+
+- if不能引导表语从句，用whether引导
+
+###### 同位语从句
+
+- 不能使用if引导，可以使用whether引导
+- 与定语从句的区别
+  - `同位语从句是对前面名词的解释`
+    - The fact that I pass the examination				我通过考试    ==是==事实
+  - `定语从句是对前面名词的修饰`
+    - The fact that I pass the examination is true		我通过考试    ==的==事实是真的
+
+
+
+
+### 倒装
+
+- `主谓倒装`
+
+#### 全部倒装
+
+​	把句子中的谓语动词全部置于主语之前
+
+- 表示方式或方位的副词或介词短语放在句首，需要全部倒装，here, there, now, then, up, down, in, away, off, in the room, on the wall等
+  - Here is your letter(Your letter is here)
+  - Ahead sat an old woman
+
+#### 部分倒装
+
+​	把句子中的谓语动词的**部分**(情态动词，助动词)置于主语之前，如果句子没有助动词(such as 'I love you')，那么需要添加助动词(do,does,did)
+
+- `only放在句首，部分倒装`
+  - Only in this way can you learn English well. 
+  - Only after being asked three times did he come to the meeting.
+  - Only when he is seriously ill does he ever stay in bed.
+- `否定意义的词语位于句首，部分倒装`    如no, not, never, seldom, little, hardly, at no time, in no way, not until等。
+  - Never have I seen such a performance
+  - Nowhere will you find the answer to this question
+  - Not until(==直到...才==) the child fell asleep did her mother leave the room
+    - 直到这个小孩睡着，他妈妈才离开房间
+- `so,neither,nor位于句首，需要部分倒装`
+  - Tom can speak French,So can jack
+  - If you won't go,neither will I
+- `so .. that句型中的so位于句首时，需倒装`
+  - So frightened was he that he didn't dare to move an inch
+- `虚拟语气if省略时需要倒装`
+
+
+
+
+### 强调句
+
+#### 陈述句的强调
+
+- 陈述句	I met him in the supermarket yesterday
+  - 强调主语	It was I that/who met him in the supermarket yesterday
+  - 强调宾语   It was him that I met in the supermarket yesterday
+  - 强调时间状语   It was yesterday that I met him in the supermarket
+  - 强调地点状语   It was in the supermarket that I met him yesterday
+
+
+
+#### 一般疑问句的强调
+
+`Was/is + it + 被强调的部分 + that/who + 剩余部分`
+
+- Was it I that met him in the supermarket yesterday?
+- Was it him that I met in the supermarket yesterday?
+- Was it  in the supermarket that I met him yesterday?
+- Was it yesterday that I met him in the supermarket?
+
+
+
+#### 特殊疑问句的强调
+
+- When and where was it that you met him?
+- Who was it that you met in the supermarket yesterday?
+
+
+
+#### 从句的强调
+
+- 原句		The first of the vitamins was not identified until 1911
+- 强调句       It was not until 1911 that the first of the vitamins was identified
+- I am late because I get up late
+- It is because I get up late that I am late
+
+
+
+#### 助动词强调
+
+- 助动词do/does/did强调谓语动词
+- I do agree your opinions
+- Please do come and take part in this game
 
 
 
@@ -3027,3 +4161,56 @@ a great deal of							只修饰不可数名词
 
 > He is home on leave from the Navy.  
 > 	他从海军部队休假回到家里。
+
+##### in the face of
+
+​	面对
+
+> courage in the face of adversity 
+
+
+
+##### be certain of success
+
+​	稳操胜券
+
+
+
+##### worn out
+
+​	筋疲力尽
+
+
+
+#####  has something to do
+
+> What you said just now has something to do with the matter
+>
+> ​	你刚才说的跟这件事有关
+
+​	
+
+many a professor
+
+​	不止一个，但是谓语动词要是单数形式
+
+> Many a professor is ....
+
+many professors
+
+​	许多
+
+
+
+##### be made of & be made from
+
+- be made of    		由……制成，能看出原材料
+  - 如桌子由木头制成，是可以看出原材料的，直接使用be made of即可。
+- be made from        由……制成，能看出原材料
+  - 而纸是由树木做成的，是看不出来原材料的，就要使用be made from了。
+
+
+
+##### on the phone
+
+> Bob,you are wanted on the phone
