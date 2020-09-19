@@ -67,8 +67,8 @@ benefited for gaining the abilities which he had not before.
 ​		英 [weɪ]   美 [weɪ] 
 
 ​		n.  道路; 方法; 方向; 某方面;
-		adv.  远远地，大大地;(程度副词，可以修饰介词短语)
-		变形 复数: ways
+​		adv.  远远地，大大地;(程度副词，可以修饰介词短语)
+​		变形 复数: ways
 
 > adv:
 >
@@ -105,8 +105,8 @@ benefited for gaining the abilities which he had not before.
 ​		英 [ˈʃedjuːl]   美 [ˈskedʒuːl] 
 
 ​		n.  工作计划，日程安排; 时刻表; 节目表; 课程表; 清单;
-		v.  安排; 列入;
-		变形 过去分词: scheduled 复数: schedules 过去式: scheduled 现在分词: scheduling 第三人称单数: schedules
+​		v.  安排; 列入;
+​		变形 过去分词: scheduled 复数: schedules 过去式: scheduled 现在分词: scheduling 第三人称单数: schedules
 
 ​		
 
@@ -121,7 +121,7 @@ benefited for gaining the abilities which he had not before.
 ​	英 [ɪˈlekʃn]   美 [ɪˈlekʃn] 
 
 ​	n.  选举，当选; 选举权; [神]神的选择;
-	变形 复数: elections
+​	变形 复数: elections
 
 ###### tough
 
@@ -132,9 +132,9 @@ benefited for gaining the abilities which he had not before.
 ​		(tougher, toughest)
 
 ​	n.  暴徒;
-	v.  坚持;
-	adv.  坚强地;
-	变形 复数: toughs
+​	v.  坚持;
+​	adv.  坚强地;
+​	变形 复数: toughs
 
 ​	
 
@@ -143,17 +143,17 @@ benefited for gaining the abilities which he had not before.
 > having or causing problems or difficulties 艰苦的；艰难的；棘手的
 >
 > ​	a tough childhood
-> 		苦难的童年
+> ​		苦难的童年
 >
 > ​	It was a tough decision to make.
-> 		那是个很难作的决定。
+> ​		那是个很难作的决定。
 
 
 
 > 严厉的；强硬的；无情的
 >
 > ​	Don't be too tough on him─he was only trying to help.
-> 		别对他要求过严，他只是想帮忙。
+> ​		别对他要求过严，他只是想帮忙。
 >
 > ​	It's about time teachers started to get tough with bullies.
 >
@@ -172,17 +172,17 @@ benefited for gaining the abilities which he had not before.
 > ​		他干推销这一行缺少足够的韧劲。
 >
 > ​	She's a tough cookie/customer (= sb who knows what they want and is not easily influenced by other people) 
-> 		她是个有主见的人。
+> ​		她是个有主见的人。
 
 
 
 >  彪悍的；粗暴的；粗野的(形容人)
 >
 > ​	You think you're so tough, don't you?
-> 		你以为自己够厉害的，是不是？
+> ​		你以为自己够厉害的，是不是？
 >
 > ​	He plays the tough guy in the movie.
-> 		他在电影中扮演硬汉
+> ​		他在电影中扮演硬汉
 
 
 
@@ -197,7 +197,7 @@ benefited for gaining the abilities which he had not before.
 > 不幸的；倒霉的
 >
 > ​	It was tough on her being dropped from the team like that.
-> 		她就这样被队里刷了下来，真是倒霉。
+> ​		她就这样被队里刷了下来，真是倒霉。
 
 
 
@@ -242,7 +242,7 @@ benefited for gaining the abilities which he had not before.
 ​	英 [ˈprezɪdənt]   美 [ˈprezɪdənt] 
 
 ​	n.  总统; 主席; 校长; 行长;
-	变形 复数: presidents
+​	变形 复数: presidents
 
 
 
@@ -253,7 +253,7 @@ benefited for gaining the abilities which he had not before.
 ​	英 [ˈsevrəl]   美 [ˈsevrəl] 
 
 ​	det.  几个; 数个; 一些;
-	adj.  各自的; 分别的;
+​	adj.  各自的; 分别的;
 
 
 
@@ -262,7 +262,7 @@ benefited for gaining the abilities which he had not before.
 > 各自的；分别的	
 >
 > ​	They said goodbye and went their several ways .
-> 		他们道别后，便各自走了。
+> ​		他们道别后，便各自走了。
 
 
 
@@ -282,7 +282,7 @@ benefited for gaining the abilities which he had not before.
 ​	英 [tent]   美 [tent] 
 
 ​	n.  帐篷; 帐篷状物; 塞子;
-	变形 复数: tents
+​	变形 复数: tents
 
 
 
@@ -291,8 +291,8 @@ benefited for gaining the abilities which he had not before.
 ​		英 [seɪm]   美 [seɪm] 
 
 ​		adj.  同一的; 相同的，同样的;
-		pron.  同一事物; 同样的人; （和…）同样的事物; （数目、颜色、大小、质量等）相同;(注意这个代词)
-		adv.  同样，类似;
+​		pron.  同一事物; 同样的人; （和…）同样的事物; （数目、颜色、大小、质量等）相同;(注意这个代词)
+​		adv.  同样，类似;
 
 > pron:
 >
@@ -305,46 +305,46 @@ benefited for gaining the abilities which he had not before.
 ​	英 [ˈrɑːðə(r) , ˌrɑːˈðɜː(r)]   美 [ˈræðər] 
 
 ​	adv.  相当; 有点儿; 更确切地说; 反而;（程度副词）
-	int.  当然！的确！;
+​	int.  当然！的确！;
 
 > （常用于表示轻微的批评、失望或惊讶）相当，在某种程度上
 >
 > ​	The instructions were rather complicated.
-> 		这些说明相当复杂
+> ​		这些说明相当复杂
 >
 > ​	She fell and hurt her leg rather badly.
-> 		她跌倒了，腿伤得相当重。
+> ​		她跌倒了，腿伤得相当重。
 >
 > ​	It was a rather difficult question.
-> 		这是个相当难的问题。
-> 	It was rather a difficult question.
-> 		这真是个难题。
+> ​		这是个相当难的问题。
+> ​	It was rather a difficult question.
+> ​		这真是个难题。
 
 
 
 > （与动词连用以减弱语气）有点儿，稍微
 >
 > ​	I rather suspect we're making a mistake.
-> 		我有点儿怀疑我们正在犯错误。
-> 	We were rather hoping you'd be able to do it by Friday.
-> 		我们希望你最好能在星期五之前做这件事。
+> ​		我有点儿怀疑我们正在犯错误。
+> ​	We were rather hoping you'd be able to do it by Friday.
+> ​		我们希望你最好能在星期五之前做这件事。
 
 
 
 > （纠正所说的话或提供更确切的信息）更确切地讲，更准确地说
 >
 > ​	She worked as a secretary, or rather, a personal assistant.
-> 		她当了秘书；确切地讲，是私人助理。
+> ​		她当了秘书；确切地讲，是私人助理。
 >
 > ​	In the end he had to walk─or rather run─to the office.
-> 		最后他不得不走着——应该说是跑着——去办公室。
+> ​		最后他不得不走着——应该说是跑着——去办公室。
 
 
 
 > （提出不同或相反的观点）相反，反而，而是
 >
 > ​	The walls were not white, but rather a sort of dirty grey.
-> 		墙面不是白的，而是灰不溜秋的。
+> ​		墙面不是白的，而是灰不溜秋的。
 
 
 
@@ -353,8 +353,8 @@ benefited for gaining the abilities which he had not before.
 ​	英 [ɪnˈstrʌkʃn]   美 [ɪnˈstrʌkʃn] 
 
 ​	n.  指示; 教学; 用法说明; 计算机指令;
-	adj.  说明用法的;
-	变形 复数: instructions
+​	adj.  说明用法的;
+​	变形 复数: instructions
 
 > 教学
 >
@@ -395,7 +395,7 @@ benefited for gaining the abilities which he had not before.
 ​	英 [ˈeksələns]   美 [ˈeksələns] 
 
 ​	n.  优秀，卓越; 优点; 美德;
-	变形 复数: excellences
+​	变形 复数: excellences
 
 > 优秀；杰出；卓越
 >
@@ -410,7 +410,7 @@ benefited for gaining the abilities which he had not before.
 ​	英 [pɑ:(r)]   美 [pɑr] 
 
 ​	n.  标准，常规; 同等; 票面价值; [体]标准杆数;
-	变形 复数: pars
+​	变形 复数: pars
 
 >  It's a constant struggle to try to keep them up to par.
 >
@@ -435,8 +435,8 @@ benefited for gaining the abilities which he had not before.
 ​	英 [ˈrekəɡnaɪz]   美 [ˈrekəɡnaɪz] 
 
 ​	vt.  认出; 识别; 承认;
-	vi.  承认，确认; [法律]具结，立保证书;
-	变形 过去分词: recognized 过去式: recognized 现在分词: recognizing 第三人称单数: recognizes
+​	vi.  承认，确认; [法律]具结，立保证书;
+​	变形 过去分词: recognized 过去式: recognized 现在分词: recognizing 第三人称单数: recognizes
 
 
 
@@ -479,10 +479,10 @@ benefited for gaining the abilities which he had not before.
 > ~ sb/sth (by/from sth) 认识；认出；辨别出
 >
 > ​	I recognized him as soon as he came in the room.
-> 		他一进屋我就认出了他。
+> ​		他一进屋我就认出了他。
 >
 > ​	I recognized her by her red hair.
-> 		我从她的红头发认出了她。
+> ​		我从她的红头发认出了她。
 >
 > ​	The following command line options are recognized:		被识别
 >
@@ -503,12 +503,12 @@ benefited for gaining the abilities which he had not before.
 ​	英 [kənˈkluːʒn]   美 [kənˈkluːʒn] 
 
 ​	n.  结论; 结束; 末尾; 结局; 签订;
-	变形 复数: conclusions
+​	变形 复数: conclusions
 
 > 结论；推论
 >
 > ​	I've come to the conclusion that he's not the right person for the job.
-> 		我断定他不适合做这项工作。
+> ​		我断定他不适合做这项工作。
 
 
 
@@ -519,22 +519,22 @@ benefited for gaining the abilities which he had not before.
 > ​		这本书的结局令人失望
 >
 > ​	In conclusion , (= finally) I would like to thank…
-> 		最后，我想感谢…
+> ​		最后，我想感谢…
 
 
 
 > 签订；达成；缔结
 >
 > ​	the successful conclusion of a trade treaty
-> 		贸易条约的成功签署
+> ​		贸易条约的成功签署
 
 
 
 ###### foregone
 
 ​	英 [ˈfɔ:gɒn]   美 [ˈfɔrgɔn]  
-    	adj.  先前的，过去的，预知的;
-	v.  （在位置时间或程度方面）走在…之前，居先( forego的过去分词 );
+​    	adj.  先前的，过去的，预知的;
+​	v.  （在位置时间或程度方面）走在…之前，居先( forego的过去分词 );
 
 >  It's almost a foregone conclusion that you'll get what you want.  
 > 	你将得到你想要的，这几乎是确定无疑的。
@@ -544,7 +544,7 @@ benefited for gaining the abilities which he had not before.
 ​	英 [ɡæp]   美 [ɡæp] 
 
 ​	n.  缺口; 间隔; 差距;
-	变形 复数: gaps
+​	变形 复数: gaps
 
 
 
@@ -553,8 +553,8 @@ benefited for gaining the abilities which he had not before.
 ​	英 [ˈnærəʊ]   美 [ˈnæroʊ] 
 
 ​	adj.  狭窄的; 狭隘的; 险胜的; 勉强的; 有限的; 狭义的;
-	v.  变狭窄; 缩小;
-	变形 过去分词: narrowed 过去式: narrowed 现在分词: narrowing 第三人称单数: narrows
+​	v.  变狭窄; 缩小;
+​	变形 过去分词: narrowed 过去式: narrowed 现在分词: narrowing 第三人称单数: narrows
 
 ###### vanish
 
@@ -565,8 +565,8 @@ benefited for gaining the abilities which he had not before.
 ​	英 [pəˈsjuː]   美 [pərˈsuː] 
 
 ​	vt.  继续; 追求; 进行; 追捕;
-	vi.  追，追赶; 继续进行;
-	变形 过去分词: pursued 过去式: pursued 现在分词: pursuing 第三人称单数: pursues
+​	vi.  追，追赶; 继续进行;
+​	变形 过去分词: pursued 过去式: pursued 现在分词: pursuing 第三人称单数: pursues
 
 
 
@@ -577,29 +577,29 @@ benefited for gaining the abilities which he had not before.
 > [动词 + 名词短语] 追求；致力于；执行；贯彻
 >
 > ​	to pursue a goal/an aim/an objective
-> 		追求目标；贯彻宗旨；实现目标
+> ​		追求目标；贯彻宗旨；实现目标
 >
 > ​	We intend to pursue this policy with determination.
-> 		我们准备坚决贯彻这项政策。
+> ​		我们准备坚决贯彻这项政策。
 
 
 
 > 继续探讨（或追究、从事）
 >
 > ​	to pursue legal action
-> 		进行诉讼
-> 	We have decided not to pursue the matter.
-> 		我们决定不再追究这件事。
+> ​		进行诉讼
+> ​	We have decided not to pursue the matter.
+> ​		我们决定不再追究这件事。
 
 
 
 > [动词 + 名词短语] to follow or chase sb/sth, especially in order to catch them 追逐；跟踪；追赶
 >
 > ​	She left the theatre, hotly pursued by the press.
-> 		她离开剧场，被记者穷追不舍。
+> ​		她离开剧场，被记者穷追不舍。
 >
 > ​	Police pursued the car at high speed.
-> 		警察高速追赶那辆汽车。
+> ​		警察高速追赶那辆汽车。
 
 
 
@@ -610,31 +610,31 @@ benefited for gaining the abilities which he had not before.
 ​	英 [ˈstrʌɡl]   美 [ˈstrʌɡl] 
 
 ​	v.  奋斗; 艰难行进; 斗争; 辩论;
-	n.  搏斗; 难事;
-	变形 过去分词: struggled 复数: struggles 过去式: struggled 现在分词: struggling 第三人称单数: struggles
+​	n.  搏斗; 难事;
+​	变形 过去分词: struggled 复数: struggles 过去式: struggled 现在分词: struggling 第三人称单数: struggles
 
 
 
 > [可数名词]	斗争；奋斗；努力
 >
 > ​	a power/leadership struggle
-> 		权力的争夺；领导权的斗争
-> 	a struggle for independence
-> 		争取独立的斗争
+> ​		权力的争夺；领导权的斗争
+> ​	a struggle for independence
+> ​		争取独立的斗争
 
 
 
 > 搏斗；扭打；（尤指）抢夺，挣扎脱身
 >
 > ​	There were no signs of a struggle at the murder scene.
-> 		在凶杀现场没有搏斗痕迹。
+> ​		在凶杀现场没有搏斗痕迹。
 
 
 
 > 难事
 >
 > ​	It was a real struggle to be ready on time.
-> 		要按时做好准备确非易事。
+> ​		要按时做好准备确非易事。
 
 
 
@@ -655,7 +655,7 @@ benefited for gaining the abilities which he had not before.
 ​	英 [ˈvaɪəleɪt]   美 [ˈvaɪəleɪt] 
 
 ​	v.  违反; 侵犯，打搅; 亵渎;
-	变形 过去分词: violated 过去式: violated 现在分词: violating 第三人称单数: violates
+​	变形 过去分词: violated 过去式: violated 现在分词: violating 第三人称单数: violates
 
 
 
@@ -664,8 +664,8 @@ benefited for gaining the abilities which he had not before.
 ​	英 [ˌreɡjuˈleɪʃn]   美 [ˌreɡjuˈleɪʃn] 
 
 ​	n.  管理; 控制; 规章; 规则;
-	adj.  规定的，必须穿戴的，必须使用的;
-	变形 复数: regulations
+​	adj.  规定的，必须穿戴的，必须使用的;
+​	变形 复数: regulations
 
 ###### survive
 
@@ -692,9 +692,9 @@ benefited for gaining the abilities which he had not before.
 ​	英 [ˈpɪəriəd]   美 [ˈpɪriəd] 
 
 ​	n.  一段时间; 阶段; 时期; 课; 月经; 句号;
-	adj.  具有每个时代特征的;
-	adv.  到此为止;
-	变形 复数: periods
+​	adj.  具有每个时代特征的;
+​	adv.  到此为止;
+​	变形 复数: periods
 
 
 
@@ -717,7 +717,7 @@ over a period of time	一段时间
 > （人生或国家历史的）阶段，时期，时代
 >
 > ​	Which period of history would you most like to have lived in?
-> 		你最喜欢生活在哪一个历史时期？
+> ​		你最喜欢生活在哪一个历史时期？
 >
 > ​	the post-war period
 >
@@ -728,7 +728,7 @@ over a period of time	一段时间
 > 纪（地质年代，代下分纪）
 >
 > ​	the Jurassic period
-> 		侏罗纪
+> ​		侏罗纪
 
 
 
@@ -761,22 +761,22 @@ over a period of time	一段时间
 ​	英 [ˈeseɪ , eˈseɪ]   美 [ˈeseɪ , eˈseɪ] 
 
 ​	n.  短文; 论说文; 论文; 企图;
-	v.  企图;
-	变形 过去分词: essayed 复数: essays 过去式: essayed 现在分词: essaying 第三人称单数: essays
+​	v.  企图;
+​	变形 过去分词: essayed 复数: essays 过去式: essayed 现在分词: essaying 第三人称单数: essays
 
 > 名词:
 >
 > ​	（作为课程作业，学生写的）文章，短文
 >
 > ​		an essay on the causes of the First World War
-> 			关于第一次世界大战起因的文章
+> ​			关于第一次世界大战起因的文章
 >
 > ​		An essay that is written by me is interesting
 >
 > ​	企图；尝试
 >
 > ​		His first essay in politics was a complete disaster.
-> 			他初次涉足政坛便碰得头破血流。
+> ​			他初次涉足政坛便碰得头破血流。
 
 
 
@@ -809,15 +809,15 @@ over a period of time	一段时间
 ​	英 [ˈfæktə(r)]   美 [ˈfæktər] 
 
 ​	n.  因素; 因子; 倍数; 系数;
-	v.  把…因素包括进去;
-	变形 复数: factors
+​	v.  把…因素包括进去;
+​	变形 复数: factors
 
 
 
 > 因素；要素(可数名词)
 >
 > ​	The closure of the mine was the single most important factor in the town's decline.
-> 		矿山的关闭是这个镇衰落的唯一最重要的因素。
+> ​		矿山的关闭是这个镇衰落的唯一最重要的因素。
 >
 > ​	Play is one of the factors that causes learning not good
 
@@ -852,7 +852,7 @@ over a period of time	一段时间
 > 计算机、程序等 智能的
 >
 > ​	intelligent software/systems
-> 		智能软件 / 系统
+> ​		智能软件 / 系统
 >
 > ​	This intelligent software is made by sjh
 
@@ -867,7 +867,7 @@ over a period of time	一段时间
 > 不可数名词:	智力；才智；智慧
 >
 > ​	a person of high/average/low intelligence
-> 		智力高的 / 一般的 / 低下的人
+> ​		智力高的 / 一般的 / 低下的人
 >
 > ​	Artificial Intelligence
 >
@@ -892,14 +892,14 @@ over a period of time	一段时间
 ​	英 [ˈspeʃəlti]   美 [ˈspeʃəlti] 
 
 ​	n.  专业; 专长; 特产;
-	变形 复数: specialties
+​	变形 复数: specialties
 
 
 
 > 专业，专长
 >
 > ​	His specialty is international law.  
-> 		他的专业是国际法。
+> ​		他的专业是国际法。
 >
 > ​	My specialty is software engineering
 
@@ -908,9 +908,9 @@ over a period of time	一段时间
 > 特产:
 >
 > ​	regional specialties
-> 		地方特产
-> 	specialty stores
-> 		特产商店
+> ​		地方特产
+> ​	specialty stores
+> ​		特产商店
 
 
 
@@ -919,15 +919,15 @@ over a period of time	一段时间
 ​	英 [ˌækəˈdemɪk]   美 [ˌækəˈdemɪk] 
 
 ​	adj.  学术的，学业的，教学的; 学院的，学校的; 成绩优秀的;
-	n.  大学教师; 高校科研人员;
-	变形 复数: academics
+​	n.  大学教师; 高校科研人员;
+​	变形 复数: academics
 
 
 
 > 学业的，教学的，学术的（尤指与学校教育有关）
 >
 > ​	The students return in October for the start of the new academic year.
-> 		学生于十月返校，开始新学年的学习。
+> ​		学生于十月返校，开始新学年的学习。
 >
 > ​	an academic career
 >
@@ -940,14 +940,14 @@ over a period of time	一段时间
 > ​	I am not an academic student
 >
 > ​	She wasn't very academic and hated school.
-> 		她学习不怎么样，而且讨厌上学。
+> ​		她学习不怎么样，而且讨厌上学。
 
 
 
 > 纯理论的；空谈的；学究式的
 >
 > ​	It is a purely academic question.
-> 		这是一个纯理论问题。
+> ​		这是一个纯理论问题。
 
 
 
@@ -956,7 +956,7 @@ over a period of time	一段时间
 ​	英 [ˌdɪsəˈpɪərəns]   美 [ˌdɪsəˈpɪrəns] 
 
 ​	n.  消失，不见; 消散; 失踪; 出走，一去不返;
-	变形 复数: disappearances
+​	变形 复数: disappearances
 
 > She knows how your brother's disappearance weighs upon you
 >
@@ -986,12 +986,12 @@ over a period of time	一段时间
 ​	英 [ˈklaɪmət]   美 [ˈklaɪmət] 
 
 ​	n.  气候; 氛围; 状况; 局势;
-	变形 复数: climates
+​	变形 复数: climates
 
 > 气候
 >
 > ​	a mild/temperate/warm/wet climate
-> 		温和的 / 暖和的 / 温暖的 / 潮湿的气候
+> ​		温和的 / 暖和的 / 温暖的 / 潮湿的气候
 
 
 
@@ -1000,7 +1000,7 @@ over a period of time	一段时间
 > ​	a climate of study
 >
 > ​	the present political climate
-> 		当前的政治气候
+> ​		当前的政治气候
 
 
 
@@ -1009,8 +1009,8 @@ over a period of time	一段时间
 ​	英 [ˈɪʃuː]   美 [ˈɪʃuː] 
 
 ​	n.  问题; （报刊）期号; 发行; 子嗣;
-	v.  发布; 供给; 出版; 将…诉诸法律;
-	变形 过去分词: issued 复数: issues 过去式: issued 现在分词: issuing 第三人称单数: issues
+​	v.  发布; 供给; 出版; 将…诉诸法律;
+​	变形 过去分词: issued 复数: issues 过去式: issued 现在分词: issuing 第三人称单数: issues
 
 
 
@@ -1023,7 +1023,7 @@ over a period of time	一段时间
 > ​	There is no issue on the JAVA programming language
 >
 > ​	If you have any issues, please call this number.
-> 		如有问题，请拨打这个电话号码。
+> ​		如有问题，请拨打这个电话号码。
 
 
 
@@ -1034,17 +1034,17 @@ over a period of time	一段时间
 ​	英 [ˈmɒrəl]   美 [ˈmɔːrəl] 
 
 ​	n.  道德; 寓意;
-	adj.  道德的; 道义上的; 有道德的; 能辨是非的;
-	变形 复数: morals
+​	adj.  道德的; 道义上的; 有道德的; 能辨是非的;
+​	变形 复数: morals
 
 
 
 > 道德的
 >
 > ​	a moral issue/dilemma/question
-> 		道德方面的议题 / 困境 / 问题
-> 	traditional moral values
-> 		传统的道德观念
+> ​		道德方面的议题 / 困境 / 问题
+> ​	traditional moral values
+> ​		传统的道德观念
 
 
 
@@ -1089,18 +1089,18 @@ over a period of time	一段时间
 ​	英 [pəˈtenʃl]   美 [pəˈtenʃl] 
 
 ​	adj.  潜在的;
-	n.  潜力; 可能性;
-	变形 复数: potentials
+​	n.  潜力; 可能性;
+​	变形 复数: potentials
 
 > adjective
 >
 > 只用于名词前 	潜在的；可能的
 >
 > ​	potential customers
-> 		潜在的客户
+> ​		潜在的客户
 >
 > ​	a potential prime minister
-> 		未来的首相
+> ​		未来的首相
 >
 > ​	potential genius
 
@@ -1111,7 +1111,7 @@ over a period of time	一段时间
 > 可能性；潜在性
 >
 > ​	the potential for change
-> 		变革的可能性
+> ​		变革的可能性
 
 
 
@@ -1120,7 +1120,7 @@ over a period of time	一段时间
 > 潜力；潜质
 >
 > ​	She has great potential as an artist.
-> 		她很有潜质，是一位可造就的艺术家。
+> ​		她很有潜质，是一位可造就的艺术家。
 
 
 
@@ -1137,16 +1137,16 @@ over a period of time	一段时间
 ​	英 [sɔɪl]   美 [sɔɪl] 
 
 ​	n.  泥土; 土地，国土; 滋生地，温床; 粪尿，肥料;
-	vt.  弄脏，污辱; 给…上粪（施肥）; 被弄脏，变脏; 用青草饲料喂养（牲口）;
-	vi.  变脏、受污染或玷污的; 变脏;
-	变形 过去分词: soiled 复数: soils 过去式: soiled 现在分词: soiling 第三人称单数: soils
+​	vt.  弄脏，污辱; 给…上粪（施肥）; 被弄脏，变脏; 用青草饲料喂养（牲口）;
+​	vi.  变脏、受污染或玷污的; 变脏;
+​	变形 过去分词: soiled 复数: soils 过去式: soiled 现在分词: soiling 第三人称单数: soils
 
 > noun
 >
 > ​	土壤
 >
 > ​		the study of rocks and soils
-> 			对岩石和土壤的研究
+> ​			对岩石和土壤的研究
 
 
 
@@ -1155,7 +1155,7 @@ over a period of time	一段时间
 > ​	国土；领土；土地
 >
 > ​		It was the first time I had set foot on African soil.
-> 			那是我第一次踏上非洲大地。
+> ​			那是我第一次踏上非洲大地。
 
 
 
@@ -1164,26 +1164,26 @@ over a period of time	一段时间
 ​	英 [ˈætməsfɪə(r)]   美 [ˈætməsfɪr] 
 
 ​	n.  大气层; 空气; 氛围，环境; 魅力;
-	变形 复数: atmospheres
+​	变形 复数: atmospheres
 
 > （围绕地球的）大气，大气层，大气圈
 >
 > ​	the upper atmosphere
-> 		高层大气
+> ​		高层大气
 
 
 
 > （房间、封闭空间或某处的）空气
 >
 > ​	a smoky/stuffy atmosphere
-> 		烟雾弥漫的 / 闷热的空气
+> ​		烟雾弥漫的 / 闷热的空气
 
 
 
 > 气氛；氛围
 >
 > ​	a party atmosphere
-> 		聚会的气氛
+> ​		聚会的气氛
 
 
 
@@ -1192,14 +1192,14 @@ over a period of time	一段时间
 ​	英 [ˈsaɪəns]   美 [ˈsaɪəns] 
 
 ​	n.  科学; 技术，知识; 学科; 理科;
-	变形 复数: sciences	
+​	变形 复数: sciences	
 
 ###### insight
 
 ​	英 [ˈɪnsaɪt]   美 [ˈɪnsaɪt] 
 
 ​	n.  洞察力; 领悟; 了解;
-	变形 复数: insights
+​	变形 复数: insights
 
 ###### involve
 
@@ -1208,26 +1208,26 @@ over a period of time	一段时间
 ​	英 [ɪnˈvɒlv]   美 [ɪnˈvɑːlv] 
 
 ​	v.  包含，涉及; （使）加入; 表明…;
-	变形 过去分词: involved 过去式: involved 现在分词: involving 第三人称单数: involves
+​	变形 过去分词: involved 过去式: involved 现在分词: involving 第三人称单数: involves
 
 ​	
 
 > 包含；需要；使成为必然部分（或结果）
 >
 > ​	Any investment involves an element of risk.
-> 		任何投资都有一定的风险。
+> ​		任何投资都有一定的风险。
 >
 > ​	The job involves me travelling all over the country.
-> 		这份工作需要我在全国各地跑。
-> 	(formal)The job involves my travelling all over the country.
-> 		这份工作需要我在全国各地跑。
+> ​		这份工作需要我在全国各地跑。
+> ​	(formal)The job involves my travelling all over the country.
+> ​		这份工作需要我在全国各地跑。
 
 
 
 > (使）参加，加入
 >
 > ​	We want to involve as many people as possible in the celebrations.
-> 		我们希望参加庆典的人越多越好。
+> ​		我们希望参加庆典的人越多越好。
 
 
 
@@ -1238,7 +1238,7 @@ over a period of time	一段时间
 ​	英 [rɪˈflekʃn]   美 [rɪˈflekʃn] 
 
 ​	n.  映像，倒影; 体现; 深思; 反射; 描述; 感想;
-	变形 复数: reflections
+​	变形 复数: reflections
 
 
 
@@ -1247,15 +1247,15 @@ over a period of time	一段时间
 ​	英 ['dʒʌdʒmənt]   美 ['dʒʌdʒmənt] 
 
 ​	n.  判断，鉴定; 辨别力，判断力; 意见，看法; 判决书;
-	变形 复数: judgments
+​	变形 复数: judgments
 
 ###### benefit
 
 ​	英 [ˈbenɪfɪt]   美 [ˈbenɪfɪt] 
 
 ​	n.  好处; 优势; 福利费; 保险金; 慈善活动;
-	v.  获益;
-	变形 过去分词: benefited 复数: benefits 过去式: benefitted 现在分词: benefitting 第三人称单数: benefits
+​	v.  获益;
+​	变形 过去分词: benefited 复数: benefits 过去式: benefitted 现在分词: benefitting 第三人称单数: benefits
 
 
 
@@ -1264,8 +1264,8 @@ over a period of time	一段时间
 ​	英 [ˈreɪdiəʊ]   美 [ˈreɪdioʊ] 
 
 ​	n.  无线电; 收音机; 无线电广播台; 无线电收发报机;
-	vt.& vi.  用无线电发送讯息; 作无线电广播; 用X射线拍照;
-	变形 过去分词: radioed 复数: radios 过去式: radioed 现在分词: radioing 第三人称单数: radios
+​	vt.& vi.  用无线电发送讯息; 作无线电广播; 用X射线拍照;
+​	变形 过去分词: radioed 复数: radios 过去式: radioed 现在分词: radioing 第三人称单数: radios
 
 ###### intimacy
 
@@ -1274,7 +1274,7 @@ over a period of time	一段时间
 ​	英 [ˈɪntɪməsi]   美 [ˈɪntɪməsi] 
 
 ​	n.  亲密; 亲近; 亲昵的言行; 性行为;
-	变形 复数: intimacies
+​	变形 复数: intimacies
 
 
 
@@ -1285,8 +1285,8 @@ over a period of time	一段时间
 ​	英 [ˈmiːdiəm]   美 [ˈmiːdiəm] 
 
 ​	adj.  中等的; 中间的; 不深不浅的;
-	n.  方式; 媒介; 巫师; 材料; 介质;
-	变形 复数: media
+​	n.  方式; 媒介; 巫师; 材料; 介质;
+​	变形 复数: media
 
 
 
@@ -1309,7 +1309,7 @@ over a period of time	一段时间
 > ​	（传播信息的）媒介，手段，方法
 >
 > ​			the medium of radio/television
-> 				广播 / 电视媒介
+> ​				广播 / 电视媒介
 
 
 
@@ -1318,7 +1318,7 @@ over a period of time	一段时间
 > ​	手段；工具；方法
 >
 > ​			English is the medium of instruction (= the language used to teach other subjects) .
-> 				用英语进行教学。
+> ​				用英语进行教学。
 
 
 
@@ -1327,7 +1327,7 @@ over a period of time	一段时间
 ​	英 [kəmˈpæniən]   美 [kəmˈpæniən] 
 
 ​	n.  同伴; 陪伴; 陪护; 成对的物品之一; 指南;
-	变形 复数: companions
+​	变形 复数: companions
 
 ###### remain
 
@@ -1344,21 +1344,21 @@ over a period of time	一段时间
 > ​	[动词 + 形容词]
 >
 > ​			Train fares are likely to remain unchanged.
-> 				火车票价很可能会保持不变。
+> ​				火车票价很可能会保持不变。
 >
 > ​	[动词 + 名词短语]
 >
 > ​			He will remain (as) manager of the club until the end of his contract.
-> 				他将继续担任俱乐部经理，直至合同期满。
+> ​				他将继续担任俱乐部经理，直至合同期满。
 
 
 
 > 剩余；遗留；继续存在
 >
 > ​	Very little of the house remained after the fire.
-> 		火灾之后，这座房子所剩无几。
-> 	There were only ten minutes remaining.
-> 		只剩下十分钟了。
+> ​		火灾之后，这座房子所剩无几。
+> ​	There were only ten minutes remaining.
+> ​		只剩下十分钟了。
 >
 > ​	When all else is lost the future still remains
 
@@ -1367,9 +1367,9 @@ over a period of time	一段时间
 >  逗留；不离去
 >
 > ​	They remained in Mexico until June.
-> 		他们在墨西哥一直住到六月。
-> 	The plane remained on the ground.
-> 		飞机仍未起飞。
+> ​		他们在墨西哥一直住到六月。
+> ​	The plane remained on the ground.
+> ​		飞机仍未起飞。
 
 
 
@@ -1378,7 +1378,7 @@ over a period of time	一段时间
 ​	英 [kənˈfrʌnt]   美 [kənˈfrʌnt] 
 
 ​	vt.  面对; 使面对面，使对峙; 碰到，遇到; 比较;
-	变形 过去分词: confronted 过去式: confronted 现在分词: confronting 第三人称单数: confronts
+​	变形 过去分词: confronted 过去式: confronted 现在分词: confronting 第三人称单数: confronts
 
 
 
@@ -1389,34 +1389,34 @@ over a period of time	一段时间
 ​	英 [ˌɪndɪˈvɪdʒuəl]   美 [ˌɪndɪˈvɪdʒuəl] 
 
 ​	adj.  单独的; 个人的; 独特的;
-	n.  个人; 某种类型的人;
-	变形 复数: individuals
+​	n.  个人; 某种类型的人;
+​	变形 复数: individuals
 
 
 
 > 单独的；个别的
 >
 > ​	We interviewed each individual member of the community.
-> 		我们采访了社区中的每个成员。	
+> ​		我们采访了社区中的每个成员。	
 >
 > ​	The minister refused to comment on individual cases.
-> 		那位部长拒绝对具体个案发表评论。
+> ​		那位部长拒绝对具体个案发表评论。
 
 
 
 > 一个人的；供一人用的
 >
 > ​	respect for individual freedom
-> 		对个人自由的尊重
-> 	an individual pizza
-> 		供一人食用的比萨饼
+> ​		对个人自由的尊重
+> ​	an individual pizza
+> ​		供一人食用的比萨饼
 
 
 
 > 独特的；与众不同的
 >
 > ​	a highly individual style of dress
-> 		十分有个性的衣着风格
+> ​		十分有个性的衣着风格
 
 
 
@@ -1425,15 +1425,15 @@ over a period of time	一段时间
 ​	英 [sens]   美 [sens] 
 
 ​	n.  感觉官能（即视、听、嗅、味、触五觉）; 感觉; 天赋，悟性; 理智，判断力; 好处; 意义; 看待…的角度;
-	v.  感觉到; 意识到; 检测出;
+​	v.  感觉到; 意识到; 检测出;
 
 ###### plastic
 
 ​	英 [ˈplæstɪk]   美 [ˈplæstɪk] 
 
 ​	n.  塑料; 塑料学; 信用卡;
-	adj.  塑料的; 不自然的; 可塑的; 做作的;
-	变形 复数: plastics
+​	adj.  塑料的; 不自然的; 可塑的; 做作的;
+​	变形 复数: plastics
 
 
 
@@ -1442,7 +1442,7 @@ over a period of time	一段时间
 ​	英 [ˈlʌkʃəri]   美 [ˈlʌkʃəri] 
 
 ​	n.  奢侈，豪华; 奢侈品，美食，美衣; 乐趣，享受; 不常有的乐趣（或享受、优势）;
-	变形 复数: luxuries
+​	变形 复数: luxuries
 
 ###### explain
 
@@ -1455,7 +1455,7 @@ over a period of time	一段时间
 ###### diligent 
 
 ​	英 [ˈdɪlɪdʒənt]   美 [ˈdɪlɪdʒənt] 
-	adj.  勤奋的; 勤勉的; 用功的; 费尽心血的;
+​	adj.  勤奋的; 勤勉的; 用功的; 费尽心血的;
 
 ###### forest
 
@@ -1486,35 +1486,35 @@ over a period of time	一段时间
 ​	英 [tʃiːt]   美 [tʃiːt] 
 
 ​	v.  作弊; 欺骗; 感情不忠;
-	n.  作弊者; 欺骗手段; 作弊软件;
-	变形 过去分词: cheated 复数: cheats 过去式: cheated 现在分词: cheating 第三人称单数: cheats
+​	n.  作弊者; 欺骗手段; 作弊软件;
+​	变形 过去分词: cheated 复数: cheats 过去式: cheated 现在分词: cheating 第三人称单数: cheats
 
 > 作弊者，骗子
 >
 > ​	You little cheat!
-> 		你这小滑头！
+> ​		你这小滑头！
 
 >  欺骗手段；欺诈行为
 >
 > ​	It's really a cheat, but you can use ready-made pastry if you want.
-> 		这东西真是骗人，但如果你愿意的话，可以用现成的油酥面团。
+> ​		这东西真是骗人，但如果你愿意的话，可以用现成的油酥面团。
 
 > （电脑游戏的）秘技，欺骗程序，作弊软件
 >
 > ​	There's a cheat you can use to get to the next level.
-> 		有种秘技，你可以用来到达下一关。
+> ​		有种秘技，你可以用来到达下一关。
 
 
 
 > 欺骗；蒙骗(verb)
 >
 > ​	She is accused of attempting to cheat the taxman.
-> 		她被指控企图蒙骗税务员。
+> ​		她被指控企图蒙骗税务员。
 
 > （尤指在游戏、比赛、考试等中）作弊，舞弊
 >
 > ​	He cheats at cards.
-> 		他玩牌时作弊。
+> ​		他玩牌时作弊。
 
 
 
@@ -1523,8 +1523,8 @@ over a period of time	一段时间
 ​	英 [tʃæt]   美 [tʃæt] 
 
 ​	v.  闲谈; 聊天;
-	n.  闲谈; 聊天;
-	变形 过去分词: chatted 过去式: chatted 现在分词: chatting 第三人称单数: chats
+​	n.  闲谈; 聊天;
+​	变形 过去分词: chatted 过去式: chatted 现在分词: chatting 第三人称单数: chats
 
 
 
@@ -1537,8 +1537,8 @@ over a period of time	一段时间
 ​	英 [liːv]   美 [liːv] 
 
 ​	v.  离开; 抛下; 不立刻做; 留下，保留; 余; 招致; 剩下食物; 不碰; 使处于; 交托; 取决于; 转换（话题）; （死后）遗	留; 递送;
-	n.  假期; 准许;
-	变形 过去分词: **left** 过去式: **left** 现在分词: leaving 第三人称单数: leaves
+​	n.  假期; 准许;
+​	变形 过去分词: **left** 过去式: **left** 现在分词: leaving 第三人称单数: leaves
 
 
 
@@ -1549,9 +1549,9 @@ over a period of time	一段时间
 ​	英 [reɪl]   美 [reɪl] 
 
 ​	n.  围栏; 轨道，钢轨; 扶手; [动]秧鸡;
-	vi.  责备; 抱怨; 责骂;
-	vt.  将…围起来; 铺铁轨; 坐火车旅行; 用围栏围;
-	变形 过去分词: railed 复数: rails 过去式: railed 现在分词: railing 第三人称单数: rails
+​	vi.  责备; 抱怨; 责骂;
+​	vt.  将…围起来; 铺铁轨; 坐火车旅行; 用围栏围;
+​	变形 过去分词: railed 复数: rails 过去式: railed 现在分词: railing 第三人称单数: rails
 
 ​	`railway station`	火车站
 
@@ -1560,14 +1560,14 @@ over a period of time	一段时间
 > 栏杆；扶手；围栏
 >
 > ​	She leaned on the ship's rail and gazed out to sea.
-> 		她靠着船上的护栏，凝望大海。
+> ​		她靠着船上的护栏，凝望大海。
 
 
 
 > （固定在墙上用以挂物品的）横杆
 >
 > ​	a picture/curtain/towel rail
-> 		挂图画 / 窗帘 / 毛巾用的横杆
+> ​		挂图画 / 窗帘 / 毛巾用的横杆
 
 
 
@@ -1578,7 +1578,7 @@ over a period of time	一段时间
 > 铁路；铁道
 >
 > ​	to travel by rail
-> 		乘火车
+> ​		乘火车
 
 
 
@@ -1587,7 +1587,7 @@ over a period of time	一段时间
 >  怒斥；责骂
 >
 > ​	She railed against the injustice of it all.
-> 		她大骂此事太不公正。
+> ​		她大骂此事太不公正。
 
 ###### bent
 
@@ -1596,15 +1596,15 @@ over a period of time	一段时间
 ​	英 [bent]   美 [bent] 
 
 ​	adj.  弯曲的; 折断的; 驼背的; 不正派的;
-	n.  才能; 爱好;
-	v.  弯腰; （使）弯曲; 屈从; 拐弯; 篡改，歪曲（bend的过去式）;
+​	n.  才能; 爱好;
+​	v.  弯腰; （使）弯曲; 屈从; 拐弯; 篡改，歪曲（bend的过去式）;
 
 > noun
 >
 > ​	天赋，爱好
 >
 > ​		She has a bent for mathematics.
-> 			她有数学天赋。
+> ​			她有数学天赋。
 
 
 
@@ -1613,36 +1613,36 @@ over a period of time	一段时间
 ​	英 [bæk]   美 [bæk] 
 
 ​	adv.  向后，在后面; 回到原处; 恢复原状; 回到以前的地方; 回复; 取回; 追溯至; 再次; 离开;
-	n.  背部; 脊柱; 后面，背面; 靠背; 末尾; 后卫;
-	adj.  后面的; 过去的; 拖欠的; 舌根的;
-	v.  资助，支持; （使）后退; 下赌注; 伴奏，伴唱; 在…后面; 给…加背衬;
-	变形 过去分词: backed 复数: backs 过去式: backed 现在分词: backing 第三人称单数: backs
+​	n.  背部; 脊柱; 后面，背面; 靠背; 末尾; 后卫;
+​	adj.  后面的; 过去的; 拖欠的; 舌根的;
+​	v.  资助，支持; （使）后退; 下赌注; 伴奏，伴唱; 在…后面; 给…加背衬;
+​	变形 过去分词: backed 复数: backs 过去式: backed 现在分词: backing 第三人称单数: backs
 
 ###### ride
 
 ​	英 [raɪd]   美 [raɪd] 
 
 ​	v.  骑（马）; 乘坐; 飘/漂浮; 取决于; 翻越; 嘲弄;
-	n.  旅行，车程; 乘骑设施; （马走的）小路;
-	变形 过去分词: ridden 过去式: rode 现在分词: riding 第三人称单数: rides
+​	n.  旅行，车程; 乘骑设施; （马走的）小路;
+​	变形 过去分词: ridden 过去式: rode 现在分词: riding 第三人称单数: rides
 
 > 驾驭马匹；骑马
 >
 > ​	I learnt to ride as a child.(这个词就代表骑马)
-> 		我小时候就学会了骑马。
+> ​		我小时候就学会了骑马。
 
 
 
 > 搭乘；乘坐
 >
 > ​	I walked back while the others rode in the car.
-> 		别人都乘车，而我是走回来的。
+> ​		别人都乘车，而我是走回来的。
 >
 > ​	to ride the subway/an elevator, etc.
-> 		乘地铁、电梯等
+> ​		乘地铁、电梯等
 >
 > ​	She rode the bus to school every day.
-> 		她每天乘公共汽车去上学。
+> ​		她每天乘公共汽车去上学。
 
 
 
@@ -1651,22 +1651,22 @@ over a period of time	一段时间
 ​	英 [feɪl]   美 [feɪl] 
 
 ​	v.  失败; 没有做; 出故障; 倒闭; 衰弱; 不够; 不及格;
-	n.  不及格;
-	变形 过去分词: failed 过去式: failed 现在分词: failing 第三人称单数: fails
+​	n.  不及格;
+​	变形 过去分词: failed 过去式: failed 现在分词: failing 第三人称单数: fails
 
 
 
 > ~ (in sth)失败；未能（做到）
 >
 > ​	I failed in my attempt to persuade her.
-> 		我未能说服她。
+> ​		我未能说服她。
 
 
 
 > [动词 + 带to的不定式]
 >
 > ​	She failed to get into art college.
-> 		她未能进入艺术学院。
+> ​		她未能进入艺术学院。
 
 
 
@@ -1675,7 +1675,7 @@ over a period of time	一段时间
 ​	英 [səˈsaɪəti]   美 [səˈsaɪəti] 
 
 ​	n.  社会; 社团; 交往;
-	变形 复数: societies
+​	变形 复数: societies
 
 ###### entrance
 
@@ -1684,35 +1684,35 @@ over a period of time	一段时间
 ​	英 [ˈentrəns , ɪnˈtrɑːns]   美 [ˈentrəns , ɪnˈtræns] 
 
 ​	n.  入口; 到达; 登台; 进入许可; 入行资格; 涉入;
-	变形 复数: entrances
+​	变形 复数: entrances
 
 
 
 ###### examination
 
 ​	英 [ɪɡˌzæmɪˈneɪʃn]   美 [ɪɡˌzæmɪˈneɪʃn]  
-	n.  检查; 考试; 询问，审问;
-	变形 复数: examinations
+​	n.  检查; 考试; 询问，审问;
+​	变形 复数: examinations
 
 > [可数名词](formal) = exam
 >
 > ​	to sit an examination in mathematics
-> 		参加数学考试
+> ​		参加数学考试
 
 
 
 > [不可数名词, 可数名词] 审查；调查；考查；考察
 >
 > ​	Careful examination of the ruins revealed an even earlier temple.
-> 		仔细考察这片废墟后发现了一座更为古老的庙宇。
+> ​		仔细考察这片废墟后发现了一座更为古老的庙宇。
 
 
 
 ###### college
 
 ​	英 [ˈkɒlɪdʒ]   美 [ˈkɑːlɪdʒ]  
-	n.  大学; 学院; 技术专科学校; 高等专科学校; 学院师生; 公学; 学会;
-	变形 复数: colleges
+​	n.  大学; 学院; 技术专科学校; 高等专科学校; 学院师生; 公学; 学会;
+​	变形 复数: colleges
 
 
 
@@ -1723,8 +1723,8 @@ over a period of time	一段时间
 ​	英 [ˈmeʒə(r)]   美 [ˈmeʒər] 
 
 ​	v.  衡量; 测量; 量度为…; 估量;
-	n.  措施; 相当数量; 体现; 尺度; 判断; 度量单位; 标准量; 计量工具; (音乐的)小节;
-	变形 过去分词: measured 复数: measures 过去式: measured 现在分词: measuring 第三人称单数: measures
+​	n.  措施; 相当数量; 体现; 尺度; 判断; 度量单位; 标准量; 计量工具; (音乐的)小节;
+​	变形 过去分词: measured 复数: measures 过去式: measured 现在分词: measuring 第三人称单数: measures
 
 
 
@@ -1741,34 +1741,34 @@ over a period of time	一段时间
 ​	英 [pəˈluːt]   美 [pəˈluːt] 
 
 ​	v.  污染; 弄脏;
-	变形 过去分词: polluted 过去式: polluted 现在分词: polluting 第三人称单数: pollutes
+​	变形 过去分词: polluted 过去式: polluted 现在分词: polluting 第三人称单数: pollutes
 
 ###### pollution
 
 ​	英 [pəˈluːʃn]   美 [pəˈluːʃn]  
-	n.  污染; 污染物;
+​	n.  污染; 污染物;
 
 ###### demand
 
 ​	英 [dɪˈmɑːnd]   美 [dɪˈmænd] 
 
 ​	v.  强烈要求; 需要;
-	n.  要求; 所需之物; 需求;
-	变形 过去分词: demanded 复数: demands 过去式: demanded 现在分词: demanding 第三人称单数: demands
+​	n.  要求; 所需之物; 需求;
+​	变形 过去分词: demanded 复数: demands 过去式: demanded 现在分词: demanding 第三人称单数: demands
 
 
 
 > （顾客的）需求，需要
 >
 > ​	to meet the demand for a product
-> 		满足对某产品的需求
+> ​		满足对某产品的需求
 
 
 
 > （坚决的）要求；所需之物
 >
 > ​	a demand for higher pay
-> 		增加工资的要求
+> ​		增加工资的要求
 
 
 
@@ -1777,7 +1777,7 @@ over a period of time	一段时间
 > ​	强烈要求
 >
 > ​		She demanded an immediate explanation.
-> 			她强烈要求立即作出解释
+> ​			她强烈要求立即作出解释
 
 
 
@@ -1792,8 +1792,8 @@ over a period of time	一段时间
 ###### arrange
 
 ​	英 [əˈreɪndʒ]   美 [əˈreɪndʒ] 
-	v.  安排; 布置; 改编（乐曲）;
-	变形 过去分词: arranged 过去式: arranged 现在分词: arranging 第三人称单数: arranges
+​	v.  安排; 布置; 改编（乐曲）;
+​	变形 过去分词: arranged 过去式: arranged 现在分词: arranging 第三人称单数: arranges
 
 ###### offer
 
@@ -1802,22 +1802,22 @@ over a period of time	一段时间
 ​	英 [ˈɒfə(r)]   美 [ˈɔːfər] 
 
 ​	v.  提供; 表示愿意; 献祭;
-	n.  建议; 提供; 出价; 减价;
-	变形 过去分词: offered 复数: offers 过去式: offered 现在分词: offering 第三人称单数: offers
+​	n.  建议; 提供; 出价; 减价;
+​	变形 过去分词: offered 复数: offers 过去式: offered 现在分词: offering 第三人称单数: offers
 
 
 
 > 主动提出；自愿给予
 >
 > ​	He offered some useful advice.
-> 		他提出了一些有益的建议。
+> ​		他提出了一些有益的建议。
 
 
 
 > 奉献，祭献（给上帝）
 >
 > ​	We offered up our prayers for the men's safe return.
-> 		我们祈求上苍保佑他们平安归来。
+> ​		我们祈求上苍保佑他们平安归来。
 
 
 
@@ -1832,7 +1832,7 @@ over a period of time	一段时间
 ​	英 [pəˈsweɪd]   美 [pərˈsweɪd] 
 
 ​	v.  劝说; 使信服;
-	变形 过去分词: persuaded 过去式: persuaded 现在分词: persuading 第三人称单数: persuades
+​	变形 过去分词: persuaded 过去式: persuaded 现在分词: persuading 第三人称单数: persuades
 
 
 
@@ -1843,7 +1843,7 @@ over a period of time	一段时间
 ​	英 [ədˈvaɪz]   美 [ ədˈvaɪz] 
 
 ​	v.  劝告; 建议，提供咨询; 通知;
-	变形 过去分词: advised 过去式: advised 现在分词: advising 第三人称单数: advises
+​	变形 过去分词: advised 过去式: advised 现在分词: advising 第三人称单数: advises
 
 
 
@@ -1858,7 +1858,7 @@ over a period of time	一段时间
 ​	英 [pruːv]   美 [pruːv] 
 
 ​	v.  原来是; 证实; 证明;
-	变形 过去分词: proven 过去式: proved 现在分词: proving 第三人称单数: proves
+​	变形 过去分词: proven 过去式: proved 现在分词: proving 第三人称单数: proves
 
 
 
@@ -1876,7 +1876,7 @@ over a period of time	一段时间
 ​	英 [ˈmedl]   美 [ˈmedl] 
 
 ​	n.  奖章; 勋章;
-	变形 过去分词: medaled 复数: medals 过去式: medaled 现在分词: medaling 第三人称单数: medals
+​	变形 过去分词: medaled 复数: medals 过去式: medaled 现在分词: medaling 第三人称单数: medals
 
 
 
@@ -1887,7 +1887,7 @@ over a period of time	一段时间
 ​	英 [frɪdʒ]   美 [frɪdʒ] 
 
 ​	n.  冰箱;
-	变形 复数: fridges
+​	变形 复数: fridges
 
 ###### certain 
 
@@ -1896,7 +1896,7 @@ over a period of time	一段时间
 ​	英 [ˈsɜːtn]   美 [ˈsɜːrtn] 
 
 ​	adj.  肯定的; 无疑的; 轻微的; 某个，某些，某位;
-	pron.  某些（不提及人或事物的名称时用）;
+​	pron.  某些（不提及人或事物的名称时用）;
 
 
 
@@ -1915,7 +1915,7 @@ over a period of time	一段时间
 ​	英 [ˈskelɪtn]   美 [ˈskelɪtn] 
 
 ​	n.  （建筑物等的）骨架; 骨骼; 梗概; 骨瘦如柴的人（或动物）;
-	变形 复数: skeletons
+​	变形 复数: skeletons
 
 
 
@@ -1932,8 +1932,8 @@ over a period of time	一段时间
 > This is an important distinction
 
 ​	英 [dɪˈstɪŋkʃn]   美 [dɪˈstɪŋkʃn] 
-	n.  差别; 分别; 卓越; 特殊奖励; 特质; 荣誉;
-	变形 复数: distinctions
+​	n.  差别; 分别; 卓越; 特殊奖励; 特质; 荣誉;
+​	变形 复数: distinctions
 
 
 
@@ -1950,7 +1950,7 @@ over a period of time	一段时间
 ​	英 [kəˈlæbəreɪt]   美 [kəˈlæbəreɪt] 
 
 ​	vi.  合作，协作; （国家间的）协调，提携; 勾结，通敌;
-	变形 过去分词: collaborated 过去式: collaborated 现在分词: collaborating 第三人称单数: collaborates
+​	变形 过去分词: collaborated 过去式: collaborated 现在分词: collaborating 第三人称单数: collaborates
 
 ​	
 
@@ -1961,7 +1961,7 @@ over a period of time	一段时间
 ​	英 [ɪnˈfɔːm]   美 [ɪnˈfɔːrm] 
 
 ​	v.  通知; 了解; 对…有影响;
-	变形 过去分词: informed 过去式: informed 现在分词: informing 第三人称单数: informs
+​	变形 过去分词: informed 过去式: informed 现在分词: informing 第三人称单数: informs
 
 
 
@@ -1998,7 +1998,7 @@ over a period of time	一段时间
 ​	英 [ədˈvɜːsəti]   美 [ədˈvɜːrsəti] 
 
 ​	n.  逆境; 不幸; 灾难;
-	变形 复数: adversities
+​	变形 复数: adversities
 
 
 
@@ -2009,7 +2009,7 @@ over a period of time	一段时间
 ​	英 [pəˈzeʃn]   美 [pəˈzeʃn] 
 
 ​	n.  占有; 个人财产控球状态; 持有违禁物; 殖民地; 着魔;
-	变形 复数: possessions
+​	变形 复数: possessions
 
 ###### in possession of
 
@@ -2020,7 +2020,7 @@ over a period of time	一段时间
 ​	英 [ˈɑːɡjuː]   美 [ˈɑːrɡjuː] 
 
 ​	v.  争论，争吵; 辩论，讨论; 论证; 表明; 主张，认为; 不承认;
-	变形 过去分词: argued 过去式: argued 现在分词: arguing 第三人称单数: argues
+​	变形 过去分词: argued 过去式: argued 现在分词: arguing 第三人称单数: argues
 
 ​	
 
@@ -2033,7 +2033,7 @@ over a period of time	一段时间
 ​	英 [ˈɑːɡjumənt]   美 [ˈɑːrɡjumənt] 
 
 ​	n.  理由; 论据; 讨论，辩论; 异议; 争论;
-	变形 复数: arguments
+​	变形 复数: arguments
 
 
 
@@ -2044,9 +2044,9 @@ over a period of time	一段时间
 ​	英 [bɔːd]   美 [bɔːrd] 
 
 ​	n.  板; 董事会; 甲板; 膳食;
-	vt.  上（船、车或飞机）; 收费供…膳宿; 使搭伙，使寄宿; 强行登（船）;
-	vi.  （火车、轮船、飞机等）接受乘客; 搭伙，寄宿;
-	变形 过去分词: boarded 复数: boards 过去式: boarded 现在分词: boarding 第三人称单数: boards
+​	vt.  上（船、车或飞机）; 收费供…膳宿; 使搭伙，使寄宿; 强行登（船）;
+​	vi.  （火车、轮船、飞机等）接受乘客; 搭伙，寄宿;
+​	变形 过去分词: boarded 复数: boards 过去式: boarded 现在分词: boarding 第三人称单数: boards
 
 
 
@@ -2057,7 +2057,7 @@ over a period of time	一段时间
 ​	英 [ˈefət]   美 [ˈefərt] 
 
 ​	n.  努力; 吃力; 有组织的行动; 费力的事;
-	变形 复数: efforts
+​	变形 复数: efforts
 
 
 
@@ -2068,8 +2068,8 @@ over a period of time	一段时间
 ​	英 [ˌɡærənˈtiː]   美 [ˌɡærənˈtiː] 
 
 ​	v.  担保; 提供（产品）保修单; 确保; 承诺对…负法律责任;
-	n.  保证; 保修单; 起保证的事物; 担保金;
-	变形 过去分词: guaranteed 复数: guarantees 过去式: guaranteed 现在分词: guaranteeing 第三人称单数: guarantees
+​	n.  保证; 保修单; 起保证的事物; 担保金;
+​	变形 过去分词: guaranteed 复数: guarantees 过去式: guaranteed 现在分词: guaranteeing 第三人称单数: guarantees
 
 
 
@@ -2092,8 +2092,8 @@ over a period of time	一段时间
 ​	英 [faʊnd]   美 [faʊnd] 
 
 ​	v.  建立; 兴建; 创办; 铸造;
-	v.  发现，找到（find过去式）;
-	变形 过去分词: founded 过去式: founded 现在分词: founding 第三人称单数: founds
+​	v.  发现，找到（find过去式）;
+​	变形 过去分词: founded 过去式: founded 现在分词: founding 第三人称单数: founds
 
 
 
@@ -2104,7 +2104,7 @@ over a period of time	一段时间
 ​	英 [dɪˈpɑːt]   美 [dɪˈpɑːrt] 
 
 ​	v.  离开，出发; 去世; 离职; 脱轨;
-	变形 过去分词: departed 过去式: departed 现在分词: departing 第三人称单数: departs
+​	变形 过去分词: departed 过去式: departed 现在分词: departing 第三人称单数: departs
 
 
 
@@ -2115,8 +2115,8 @@ over a period of time	一段时间
 ​	英 [laɪ]   美 [laɪ] 
 
 ​	v.  躺; 被平放; 位于; 处于; 伸展; 排名; **说谎**; 存在; 将发生; 长眠;
-	n.  谎言; 位置;
-	变形 过去分词: lain 过去式: lay 现在分词: lying 第三人称单数: lies
+​	n.  谎言; 位置;
+​	变形 过去分词: lain 过去式: lay 现在分词: lying 第三人称单数: lies
 
 
 
@@ -2127,16 +2127,16 @@ over a period of time	一段时间
 > The beauty of rereading lies in the idea that our bond with the work is based on our present mental register
 
 ​	英 [bɒnd]   美 [bɑːnd] 
-	n.  纽带; 联系; 书面的法律协定; 束缚; 羁绊; 枷锁; 连接; 公债; 债券; 保释金; 按揭贷款; 化学键;
-	v.  与…紧密联系; 使建立亲密关系;
-	变形 过去分词: bonded 复数: bonds 过去式: bonded 现在分词: bonding 第三人称单数: bonds
+​	n.  纽带; 联系; 书面的法律协定; 束缚; 羁绊; 枷锁; 连接; 公债; 债券; 保释金; 按揭贷款; 化学键;
+​	v.  与…紧密联系; 使建立亲密关系;
+​	变形 过去分词: bonded 复数: bonds 过去式: bonded 现在分词: bonding 第三人称单数: bonds
 
 
 
 > 纽带；联系；关系；契合
 >
 > ​	A bond of friendship had been forged between them.
-> 		他们之间形成了一种友谊的纽带。
+> ​		他们之间形成了一种友谊的纽带。
 
 
 
@@ -2147,14 +2147,14 @@ over a period of time	一段时间
 > 保释金
 >
 > ​	He was released on $5 000 bond.
-> 		他以5 000元取保释放。
+> ​		他以5 000元取保释放。
 
 
 
 > 书面的法律协定（或承诺）
 >
 > ​	We entered into a solemn bond.
-> 		我们缔结了一项严肃的协定。
+> ​		我们缔结了一项严肃的协定。
 
 
 
@@ -2167,13 +2167,13 @@ over a period of time	一段时间
 ​	英 [fɔːdʒ]   美 [fɔːrdʒ] 
 
 ​	n.  锻造车间; 熔铁炉，锻铁炉; 铁匠铺，铁匠工场;
-	vi.  锻制，锻造; 伪造; 犯伪造罪;
-	vt.  锻造; 伪造; 捏造，编造; 制订;
+​	vi.  锻制，锻造; 伪造; 犯伪造罪;
+​	vt.  锻造; 伪造; 捏造，编造; 制订;
 
 >  锻造；制作
 >
 > ​	swords forged from steel
-> 		用钢锻造的刀剑
+> ​		用钢锻造的刀剑
 >
 > ​	A bond of friendship had been forged between them.
 >
@@ -2206,8 +2206,8 @@ over a period of time	一段时间
 ​	英 [wɪŋ]   美 [wɪŋ] 
 
 ​	n.  （机）翼，翅膀; 侧厅，边厢; （汽车）挡泥板; （尤指政治组织的）派; 边锋; 飞行资格;
-	v.  飞（行）; 赶往;
-	变形 过去分词: winged 复数: wings 过去式: winged 现在分词: winging 第三人称单数: wings
+​	v.  飞（行）; 赶往;
+​	变形 过去分词: winged 复数: wings 过去式: winged 现在分词: winging 第三人称单数: wings
 
 
 
@@ -2222,10 +2222,10 @@ over a period of time	一段时间
 > 建筑物 侧翼部分；侧厅；耳房；厢房
 >
 > ​	the east wing
-> 		东翼楼
+> ​		东翼楼
 >
 > ​	the new wing of the hospital
-> 		与医院一侧相连的新楼房
+> ​		与医院一侧相连的新楼房
 
 
 
@@ -2242,9 +2242,9 @@ over a period of time	一段时间
 ​	英 [dent]   美 [dent] 
 
 ​	n.  凹痕，凹部; 齿; 减少，削弱; [名]登特;
-	vt.  使产生凹痕; 削弱; 打击，破坏; 产生不好的影响;
-	vi.  出现凹痕; 产生凹陷; 凹进去; 削减;
-	变形 过去分词: dented 复数: dents 过去式: dented 现在分词: denting 第三人称单数: dents
+​	vt.  使产生凹痕; 削弱; 打击，破坏; 产生不好的影响;
+​	vi.  出现凹痕; 产生凹陷; 凹进去; 削减;
+​	变形 过去分词: dented 复数: dents 过去式: dented 现在分词: denting 第三人称单数: dents
 
 
 
@@ -2271,7 +2271,7 @@ over a period of time	一段时间
 ​	英 [ˈmemwɑ:(r)]   美 [ˈmɛmˌwɑr, -ˌwɔr] 
 
 ​	n.  回忆录，自传; 记事录;
-	变形 复数: memoirs
+​	变形 复数: memoirs
 
 
 
@@ -2282,7 +2282,7 @@ over a period of time	一段时间
 ​	英 [ɪnˈtɒksɪkeɪtɪŋ]   美 [ɪnˈtɑksɪkeɪtɪŋ] 
 
 ​	adj.  醉人的; 令人陶醉的; 使兴奋的; （指酒类）蒸馏的（非发酵的）;
-	v.  使喝醉( intoxicate的现在分词 ); 使陶醉; 使激动不已; 使欣喜若狂;
+​	v.  使喝醉( intoxicate的现在分词 ); 使陶醉; 使激动不已; 使欣喜若狂;
 
 
 
@@ -2313,8 +2313,8 @@ over a period of time	一段时间
 ​	英 [ˈræmbl]   美 [ˈræmbəl] 
 
 ​	vi.  漫游; 漫步; 漫谈; 蔓延;
-	n.  漫步; 漫游; 漫谈;
-	变形 过去分词: rambled 过去式: rambled 现在分词: rambling 第三人称单数: rambles
+​	n.  漫步; 漫游; 漫谈;
+​	变形 过去分词: rambled 过去式: rambled 现在分词: rambling 第三人称单数: rambles
 
 >  It would have been best written in a more concise way as it does tend to ramble
 >
@@ -2325,7 +2325,7 @@ over a period of time	一段时间
 ​	英 [tend]   美 [tend] 
 
 ​	v.  往往会; 倾向于; 个人认为; 护理，照料; 招待;
-	变形 过去分词: tended 过去式: tended 现在分词: tending 第三人称单数: tends
+​	变形 过去分词: tended 过去式: tended 现在分词: tending 第三人称单数: tends
 
 ###### infer
 
@@ -2334,7 +2334,7 @@ over a period of time	一段时间
 ​	英 [ɪnˈfɜː(r)]   美 [ɪnˈfɜːr] 
 
 ​	v.  推断，推理; 暗示;
-	变形 过去分词: inferred 过去式: inferred 现在分词: inferring 第三人称单数: infers
+​	变形 过去分词: inferred 过去式: inferred 现在分词: inferring 第三人称单数: infers
 
 
 
@@ -2345,7 +2345,7 @@ over a period of time	一段时间
 > He loves poetry.
 
 ​	英 [ˈpəʊətri]   美 [ˈpoʊətri]  
-	n.  诗歌; 诗集; 诗意;
+​	n.  诗歌; 诗集; 诗意;
 
 
 
@@ -2372,9 +2372,9 @@ over a period of time	一段时间
 ​	英 [dɪˈskɑːd , ˈdɪskɑːd]   美 [dɪˈskɑːrd , ˈdɪskɑːrd] 
 
 ​	vt.  丢弃，抛弃; 解雇; 出牌;
-	n.  被抛弃的人[物]; 丢弃，抛弃; 打出的牌;
-	vi.  出无用的牌; 垫牌;
-	变形 过去分词: discarded 过去式: discarded 现在分词: discarding 第三人称单数: discards
+​	n.  被抛弃的人[物]; 丢弃，抛弃; 打出的牌;
+​	vi.  出无用的牌; 垫牌;
+​	变形 过去分词: discarded 过去式: discarded 现在分词: discarding 第三人称单数: discards
 
 
 
@@ -2383,8 +2383,8 @@ over a period of time	一段时间
 > Einstein had the chutzpah to discard common sense and long-established theory.  
 
 ​	英 [ˈθɪəri]   美 [ˈθiːəri]  
-	n.  学说; 理论; 观点; 猜想;
-	变形 复数: theories
+​	n.  学说; 理论; 观点; 猜想;
+​	变形 复数: theories
 
 
 
@@ -2393,39 +2393,39 @@ over a period of time	一段时间
 ###### conflict
 
 ​	英 [ˈkɒnflɪkt , kənˈflɪkt]   美 [ˈkɑːnflɪkt , kənˈflɪkt]  
-	n.  争执; 矛盾心理; 冲突; 严重分歧;
-	v.  冲突;
-	变形 过去分词: conflicted 复数: conflicts 过去式: conflicted 现在分词: conflicting 第三人称单数: conflicts
+​	n.  争执; 矛盾心理; 冲突; 严重分歧;
+​	v.  冲突;
+​	变形 过去分词: conflicted 复数: conflicts 过去式: conflicted 现在分词: conflicting 第三人称单数: conflicts
 
 
 
 > noun 冲突；争执；争论
 >
 > ​	a conflict between two cultures
-> 		两种文化的冲突
+> ​		两种文化的冲突
 >
 > ​	John often comes into conflict with his boss.
-> 		约翰经常和他的老板发生争执。
+> ​		约翰经常和他的老板发生争执。
 
 
 
 > verb	冲突，抵触
 >
 > ​	These results conflict with earlier findings.
-> 		这些结果与早期的发现相矛盾。
+> ​		这些结果与早期的发现相矛盾。
 
 
 
 ###### consequence
 
 ​	英 [ˈkɒnsɪkwəns]   美 [ˈkɑːnsɪkwens]  
-	n.  结果; 重要性;
-	变形 复数: consequences
+​	n.  结果; 重要性;
+​	变形 复数: consequences
 
 > 结果；后果
 >
 > ​	This decision could have serious consequences for the industry.
-> 		这项决定可能对该行业造成严重后果。
+> ​		这项决定可能对该行业造成严重后果。
 
 
 
@@ -2442,10 +2442,10 @@ n.  工业; 产业（经济词汇）; 工业界; 勤劳;
 > 工业；生产制造
 >
 > ​	the needs of British industry
-> 		英国工业的需求
+> ​		英国工业的需求
 >
 > ​	She got a job in industry .
-> 		她找了份工厂里的工作。
+> ​		她找了份工厂里的工作。
 
 
 
@@ -2458,7 +2458,7 @@ n.  工业; 产业（经济词汇）; 工业界; 勤劳;
 > 勤奋；勤劳
 >
 > ​	We were impressed by their industry.
-> 		他们的勤奋给我们留下深刻印象。
+> ​		他们的勤奋给我们留下深刻印象。
 
 
 
@@ -2469,8 +2469,8 @@ n.  工业; 产业（经济词汇）; 工业界; 勤劳;
 > We were impressed by their industry.
 
 ​	英 [ɪmˈpres]   美 [ɪmˈpres]  
-	v.  使敬佩; 给…深刻印象; 使铭记; 使…意识到; 给…留下…印象;
-	变形 过去分词: impressed 过去式: impressed 现在分词: impressing 第三人称单数: impresses
+​	v.  使敬佩; 给…深刻印象; 使铭记; 使…意识到; 给…留下…印象;
+​	变形 过去分词: impressed 过去式: impressed 现在分词: impressing 第三人称单数: impresses
 
 
 
@@ -2488,9 +2488,9 @@ n.  工业; 产业（经济词汇）; 工业界; 勤劳;
 ###### refuse
 
 ​	英 [rɪˈfjuːz , ˈrefjuːs]   美 [rɪˈfjuːz , ˈrefjuːs]  
-	v.  拒绝; 回绝;
-	n.  垃圾，废弃物;
-	变形 过去分词: refused 过去式: refused 现在分词: refusing 第三人称单数: refuses
+​	v.  拒绝; 回绝;
+​	n.  垃圾，废弃物;
+​	变形 过去分词: refused 过去式: refused 现在分词: refusing 第三人称单数: refuses
 
 
 
@@ -2509,8 +2509,8 @@ n.  工业; 产业（经济词汇）; 工业界; 勤劳;
 > 坚持观点
 
 ​	英 [ɪnˈsɪst]   美 [ɪnˈsɪst]  
-	v.  坚持; 坚称说;
-	变形 过去分词: insisted 过去式: insisted 现在分词: insisting 第三人称单数: insists
+​	v.  坚持; 坚称说;
+​	变形 过去分词: insisted 过去式: insisted 现在分词: insisting 第三人称单数: insists
 
 
 
@@ -2554,6 +2554,16 @@ n.  工业; 产业（经济词汇）; 工业界; 勤劳;
 
 ###### resolution
 
+​			英 [ˌrezəˈluːʃn] 美 [ˌrezəˈluːʃn] 
+
+​			n. [物] 分辨率；决议；解决；决心
+
+​			[ 复数 resolutions ]
+
+
+
+
+
 ###### ancestor
 
 > ```
@@ -2594,6 +2604,11 @@ n.  工业; 产业（经济词汇）; 工业界; 勤劳;
 
 > An <b>Engine</b> is a Container that represents the entire Catalina servlet engine
 
+​	英 [ɪnˈtaɪə(r)] 美 [ɪnˈtaɪər] 
+
+- adj. 全部的，整个的；全体的
+- n. (Entire)人名；(英)恩泰尔
+
 ###### omit
 
 > The parent Container attached to a Host is generally an Engine, but may be some other implementation, or may be omitted if it is not necessary.
@@ -2614,6 +2629,11 @@ n.  工业; 产业（经济词汇）; 工业界; 勤劳;
 
 ###### significant 
 
+​	英 [sɪɡˈnɪfɪkənt] 美 [sɪɡˈnɪfɪkənt] 
+
+- adj. 重大的；有效的；有意义的；值得注意的；意味深长的
+- n. 象征；有意义的事物
+
 > Interface defining a listener for significant events
 
 
@@ -2623,7 +2643,7 @@ n.  工业; 产业（经济词汇）; 工业界; 勤劳;
 ​	英 [ɪnˈθjuːziæzəm]   美 [ɪnˈθuːziæzəm] 
 
 ​	n.  热情，热忱; 热衷的事物; 宗教的狂热;
-	变形 复数: enthusiasms
+​	变形 复数: enthusiasms
 
 > Success is the ability to go from one failure to another with no loss of enthusiasm
 
@@ -2646,8 +2666,8 @@ n.  工业; 产业（经济词汇）; 工业界; 勤劳;
 ​	英 [ˈɡrædʒuət , ˈɡrædʒueɪt]   美 [ˈɡrædʒuət , ˈɡrædʒueɪt] 
 
 ​	n.  大学毕业生; 毕业生;
-	v.  获得学位; 授予学位文凭; 中学毕业; 晋升;
-	变形 过去分词: graduated 复数: graduates 过去式: graduated 现在分词: graduating 第三人称单数: graduates
+​	v.  获得学位; 授予学位文凭; 中学毕业; 晋升;
+​	变形 过去分词: graduated 复数: graduates 过去式: graduated 现在分词: graduating 第三人称单数: graduates
 
 > I graduated from Harvard this year
 >
@@ -2656,8 +2676,6 @@ n.  工业; 产业（经济词汇）; 工业界; 勤劳;
 ###### performance
 
 > Never had I seen such a performance
-
-
 
 
 
@@ -2674,6 +2692,78 @@ n.  工业; 产业（经济词汇）; 工业界; 勤劳;
 > I need energy that is endless
 
 
+
+##### 17th
+
+###### approach
+
+> The microservice architectural style is an approach to developing a single application as a suite of small services
+
+###### suite
+
+> The microservice architectural style is an approach to developing a single application as a suite of small services
+
+
+
+###### consist
+
+> The reference documentation consists of the following sections:
+
+###### legal
+
+> Legal information.
+
+
+
+###### sentinel
+
+###### invasive 
+
+> The Spring Framework is the leading full-stack Java/JEE application framework. It provides a lightweight container and a non-invasive programming model
+
+
+
+###### alternative
+
+> [NoSQL](https://en.wikipedia.org/wiki/NoSQL) storage systems provide an alternative to classical RDBMS for horizontal scalability and speed
+
+
+
+##### 19th
+
+###### expiry
+
+###### central
+
+> ```
+> Spring's central cache manager SPI.
+> ```
+
+###### evict
+
+> cacheEvict
+
+###### score
+
+> under score	下划线
+
+###### camel
+
+###### overtake
+
+> India overtakes US to became NO.1 in terms of global coronavirus recoveries
+
+###### in terms of
+
+> - 依据；按照；在…方面；以…措词
+
+###### coronavirus
+
+> **冠状病毒**
+
+
+
+###### recovery
 
 ### 2021
 
@@ -2808,7 +2898,7 @@ n.  工业; 产业（经济词汇）; 工业界; 勤劳;
 ​	英 [jɔːˈself]   美 [jɔːrˈself] 
 
 ​	pron.  你自己; （用以加强语气）亲自; 你的正常或健康的情况;
-	变形 复数: yourselves
+​	变形 复数: yourselves
 
 > 作宾语:
 >
@@ -2936,7 +3026,7 @@ a great deal of							只修饰不可数名词
 
     seventy-eight billion two hundred and forty million eighty-four thousand seven hundred and sixty-nine
 
-    ​
+    
 
 - 序数词
 
@@ -3080,7 +3170,7 @@ a great deal of							只修饰不可数名词
 
 - too用于肯定句和疑问句的末尾，用逗号隔开
 - also用于肯定句谓语动词之前
-  - ​
+  - 
 - nor表示否定句，位于句首（倒装）
   - ‘I'm not going. ’ ‘Nor am I. ’
 
@@ -3124,8 +3214,7 @@ a great deal of							只修饰不可数名词
   - But his primary task is ==not== to think about the moral code, which governs his activity, ==any more than== a businessman is expected to dedicate his energies to an exploration of rules of conduct in business.
     但是，他的首要任务并不是考虑支配自己行动的道德，就如同不能指望商人专注于
     探讨行业行为规范一样。
-
-    - not 后面的和any more than后面的一样不
+- not 后面的和any more than后面的一样不
 
 
 
@@ -3198,12 +3287,12 @@ a great deal of							只修饰不可数名词
 ###### nothing more than(只不过是)
 
 - nothing more than	只不过是
-  - ​
+  - 
 
 ###### no less than(不亚于，相当于)
 
 - no less than	不亚于，相当于
-  - ​
+  - 
 
 
 
@@ -3701,7 +3790,7 @@ a great deal of							只修饰不可数名词
     - Mr. Smith being absent, the meeting had to be put off.	`Mr. Smith being absent`是独立主格结构
     - It being a fine day, we all wanted to go outing.
 
-    ​
+    
 
 - 现在分词作状语时，前面可用`从属连词`when,while,once等
 
@@ -3925,7 +4014,7 @@ a great deal of							只修饰不可数名词
   - 当先行词为one(s),anyone,those时
   - 当先行词为人称代词时(he,she)
 
-  ​
+  
 
 ##### 状语从句
 
@@ -4206,7 +4295,7 @@ many professors
 
 - be made of    		由……制成，能看出原材料
   - 如桌子由木头制成，是可以看出原材料的，直接使用be made of即可。
-- be made from        由……制成，能看出原材料
+- be made from        由……制成，能看不出来原材料
   - 而纸是由树木做成的，是看不出来原材料的，就要使用be made from了。
 
 
