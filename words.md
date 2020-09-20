@@ -2765,6 +2765,70 @@ n.  工业; 产业（经济词汇）; 工业界; 勤劳;
 
 ###### recovery
 
+##### 20th
+
+###### broad
+
+> It supports industry standard protocols so users get the benefits of client choices across a broad range of languages and platforms.
+
+###### broker
+
+> There are currently two "flavors" of ActiveMQ available - the "classic" 5.x broker and the "next generation" Artemis broker.
+
+
+
+###### subscribe
+
+###### subscriber
+
+###### subscription
+
+###### pending
+
+> Number of pending messages
+
+###### enqueue
+
+> messages enqueued	已经入队的消息
+
+###### dequeue
+
+###### dispose
+
+###### delivery
+
+###### acknowledge
+
+> textMessage.acknoledge();
+
+英 [əkˈnɒlɪdʒ] 美 [əkˈnɑːlɪdʒ] 
+
+vt. 承认；答谢；报偿；告知已收到
+
+
+
+###### maintain
+
+> The Message Broker which routes messages, maintains(维持) subscriptions and connections, acknowledges messages and handles transactions.
+
+英 [meɪnˈteɪn] 美 [meɪnˈteɪn] 
+
+vt. 维持；继续；维修；主张；供养
+
+[ 过去式 maintained 过去分词 maintained 现在分词 maintaining 第三人称单数 maintains ]
+
+
+
+###### pane
+
+> 1. Click the [Download](http://activemq.apache.org/download) link in the navigation pane (the left pane).
+
+###### extract
+
+> 1. Extract ActiveMQ from the ZIP file into a directory of your choice.
+
+###### transport
+
 ### 2021
 
 #### January
