@@ -671,6 +671,16 @@ benefited for gaining the abilities which he had not before.
 
 ###### trade
 
+> As our trade business throughput rises
+
+​	英 [treɪd] 美 [treɪd] 
+
+- n. 贸易，交易；行业；职业
+- vi. 交易，买卖；以物易物
+- vt. 用……进行交换
+
+
+
 ###### treaty
 
 
@@ -1795,6 +1805,12 @@ over a period of time	一段时间
 ​	v.  安排; 布置; 改编（乐曲）;
 ​	变形 过去分词: arranged 过去式: arranged 现在分词: arranging 第三人称单数: arranges
 
+###### arrangement
+
+> How do you like your new flexible work in arrangement?
+
+
+
 ###### offer
 
 > She offered(主动) to help me when I was in trouble
@@ -1937,7 +1953,9 @@ over a period of time	一段时间
 
 
 
+###### destination
 
+​	目的地，终点
 
 ###### corrupt
 
@@ -1981,7 +1999,17 @@ over a period of time	一段时间
 
 > fatal: 'master' does not appear to be a git repository
 
+​	英 [əˈpɪə(r)] 美 [əˈpɪr] 
+
+- vi. 出现；显得；似乎；出庭；登场
+
 ###### thirsty
+
+​	英 [ˈθɜːsti] 美 [ˈθɜːrsti] 
+
+- adj. 口渴的，口干的；渴望的，热望的
+
+[ 比较级 thirstier 最高级 thirstiest ]
 
 
 
@@ -2518,6 +2546,18 @@ n.  工业; 产业（经济词汇）; 工业界; 勤劳;
 
 > What are your terms
 
+英 [tɜːm] 美 [tɜːrm] 
+
+n. 术语；学期；期限；条款；(代数式等的)项
+
+vt. 把…叫做
+
+n. (Term)人名；(泰)丁
+
+> 时间长短
+>
+> For long term persistence we recommend using JDBC coupled with our high performance journal.
+
  
 
 ###### outing
@@ -2548,9 +2588,16 @@ n.  工业; 产业（经济词汇）; 工业界; 勤劳;
 
 ###### parameterization
 
-###### encountered 
+###### encounter
 
 > Some problems were encountered(被动语态) while processing the POMs(现在分词作状语加连词)
+
+​	英 [ɪnˈkaʊntə(r)] 美 [ɪnˈkaʊntər] 
+
+- v. 遭遇；邂逅；遇到
+- n. 遭遇；偶然碰见
+
+[ 复数 encounters 过去式 encountered 过去分词 encountered 现在分词 encountering 第三人称单数 encounters ]
 
 ###### resolution
 
@@ -2592,13 +2639,62 @@ n.  工业; 产业（经济词汇）; 工业界; 勤劳;
 
 ###### intent
 
+​	英 [ɪnˈtent] 美 [ɪnˈtent] 
+
+- n. 意图；目的；含义
+- adj. 专心的；急切的；坚决的
+
+[ 比较级 more intent 最高级 most intent 复数 intents ]
+
+> 专心的
+> 	The rebels are obviously intent on keeping up the pressure.
+>
+> ​	反叛分子显然决心继续施加压力。
+
 ###### series
 
-> a series of	
+> a series of		一系列的
+
+​	英 [ˈsɪəriːz] 美 [ˈsɪriːz] 
+
+- n. 系列，连续；[电] 串联；级数；丛书
+
+[ 复数 series ]
 
 ###### contract
 
 > The detailed contract for a Valve is included in the description of the <code>invoke()</code> method below
+
+> A **contract** is a legal agreement, usually between two companies or between an employer and employee, which involves doing work for a stated sum of money. 合同
+
+​	英 [ˈkɒntrækt] 美 [ˈkɑːntrækt] 
+
+- n. 合同，契约；婚约；（非正式）暗杀协议；（桥牌）定约
+- v. 收缩，缩短；感染；订约；订（婚）；负（债）；结交
+
+[ 复数 contracts 过去式 contracted 过去分词 contracted 现在分词 contracting 第三人称单数 contracts ]
+
+
+
+###### agreement
+
+​	英 [əˈɡriːmənt] 美 [əˈɡriːmənt] 
+
+- n. 协议；同意，一致
+
+[ 复数 agreements ]
+
+
+
+###### employer
+
+​	雇主
+
+###### employee
+
+​	员工
+
+
 
 ###### entire
 
@@ -2608,6 +2704,11 @@ n.  工业; 产业（经济词汇）; 工业界; 勤劳;
 
 - adj. 全部的，整个的；全体的
 - n. (Entire)人名；(英)恩泰尔
+
+> 
+> He had spent his entire life in China as a doctor.
+>
+> 他整个一生都在中国做医生。
 
 ###### omit
 
@@ -2733,6 +2834,16 @@ n.  工业; 产业（经济词汇）; 工业界; 勤劳;
 
 ###### expiry
 
+​	英 [ɪkˈspaɪəri] 美 [ɪkˈspaɪəri] 
+
+- n. 满期，到期；终结；呼气；死亡
+
+[ 复数 expiries ]
+
+> The licence can be renewed on expiry. 
+>
+> 执照期满时可延期。
+
 ###### central
 
 > ```
@@ -2742,6 +2853,16 @@ n.  工业; 产业（经济词汇）; 工业界; 勤劳;
 ###### evict
 
 > cacheEvict
+
+​	英 [ɪˈvɪkt] 美 [ɪˈvɪkt] 
+
+- vt. 驱逐；逐出
+
+[ 过去式 evicted 过去分词 evicted 现在分词 evicting 第三人称单数 evicts ]
+
+> If someone **is evicted** **from** the place where they are living, they are forced to leave it, usually because they have broken a law or contract. 驱逐
+
+
 
 ###### score
 
@@ -2765,27 +2886,62 @@ n.  工业; 产业（经济词汇）; 工业界; 勤劳;
 
 ###### recovery
 
+​	英 [rɪˈkʌvəri] 美 [rɪˈkʌvəri] 
+
+- n. 恢复，复原；痊愈；重获
+
 ##### 20th
 
 ###### broad
 
 > It supports industry standard protocols so users get the benefits of client choices across a broad range of languages and platforms.
 
+​	英 [brɔːd] 美 [brɔːd] 
+
+- adj. 宽的，辽阔的；显著的；大概的
+- n. 宽阔部分
+- adv. 宽阔地
+- n. (Broad)人名；(英、德)布罗德
+
+[ 复数 broads ]
+
 ###### broker
 
 > There are currently two "flavors" of ActiveMQ available - the "classic" 5.x broker and the "next generation" Artemis broker.
 
+​	英 [ˈbrəʊkə(r)] 美 [ˈbroʊkər] 
 
+- n. 经纪人，掮客
+- vi. 作为权力经纪人进行谈判
+- vt. 以中间人等身分安排...
+- n. (Broker)人名；(英)布罗克；(俄)布罗克尔
 
 ###### subscribe
 
+​	订阅
+
 ###### subscriber
 
+​	订阅者
+
 ###### subscription
+
+​	订阅
+
+###### **pend**
+
+
 
 ###### pending
 
 > Number of pending messages
+
+​	英 [ˈpendɪŋ] 美 [ˈpendɪŋ] 
+
+- adj. 未决定的；行将发生的
+- prep. 在……期间；直到……时为止；在等待……之际
+- v. 待定；悬而不决（pend 的现在分词）
+- n. （Pending）（瑞典）彭丁（人名
 
 ###### enqueue
 
@@ -2795,7 +2951,27 @@ n.  工业; 产业（经济词汇）; 工业界; 勤劳;
 
 ###### dispose
 
+​	英 [dɪˈspəʊz] 美 [dɪˈspoʊz] 
+
+- vt. 处理；处置；安排；使倾向于
+- vi. 处理；安排；（能够）决定；击败；杀死
+- n. 处置；性情
+
+> **[dispose of](http://dict.youdao.com/w/eng/dispose_of/#keyfrom=dict.basic.wordgroup)** 处理；转让；解决；吃光；除掉；卖掉
+
+> They dispose of the city's waste in the sea. 
+>
+> 他们把城市的废物倒入大海处理掉。
+
 ###### delivery
+
+> You have a delivery	你有一个快递
+
+​	英 [dɪˈlɪvəri] 美 [dɪˈlɪvəri] 
+
+- n. [贸易] 交付；分娩；递送
+
+[ 复数 deliveries ]
 
 ###### acknowledge
 
@@ -2813,9 +2989,13 @@ vt. 承认；答谢；报偿；告知已收到
 
 英 [meɪnˈteɪn] 美 [meɪnˈteɪn] 
 
-vt. 维持；继续；维修；主张；供养
+vt. 维护,维持；继续；维修；主张；供养
 
 [ 过去式 maintained 过去分词 maintained 现在分词 maintaining 第三人称单数 maintains ]
+
+> ZooKeeper is a centralized service for maintaining configuration information
+
+
 
 
 
@@ -2828,6 +3008,269 @@ vt. 维持；继续；维修；主张；供养
 > 1. Extract ActiveMQ from the ZIP file into a directory of your choice.
 
 ###### transport
+
+
+
+##### 21th
+
+###### couple
+
+> For long term persistence we recommend using JDBC coupled with our high performance journal.
+
+​	英 [ˈkʌpl] 美 [ˈkʌpl] 
+
+- n. 对；夫妇；数个
+- vi. 结合；成婚
+- vt. 结合；连接；连合
+- n. (Couple)人名；(法)库普勒
+
+[ 过去式 coupled 过去分词 coupled 现在分词 coupling 复数 couples 第三人称单数 couples ]
+
+
+
+###### sequence
+
+​	
+
+###### coordinate
+
+> It uses [Apache ZooKeeper](http://zookeeper.apache.org/) to coordinate which node in the cluster becomes the master
+
+​	英 [kəʊˈɔːdɪneɪt] 美 [koʊˈɔːrdɪneɪt] 
+
+- v. 调节，配合；使动作协调；（衣服、家具等）搭配；与……形成共价键
+- adj. 同等的，并列的；配位的；坐标的
+- n. 坐标；配套服装；同等的人或物
+
+[ 过去式 coordinated 过去分词 coordinated 现在分词 coordinating 复数 coordinates 第三人称单数 coordinates ]
+
+
+
+###### coordination
+
+> Apache ZooKeeper is an effort to develop and maintain an open-source server which enables highly reliable distributed coordination.
+
+> You need good hand-eye coordination to play ball games.
+>
+> ​	玩球类游戏，手和眼的动作要协调好。
+
+
+
+###### promote
+
+>  If the master dies, the slaves with the latest update gets promoted to become the master
+
+​	英 [prəˈməʊt] 美 [prəˈmoʊt] 
+
+- vt. 促进；提升；推销；发扬
+- vi. 成为王后或其他大于卒的子
+
+[ 过去式 promoted 过去分词 promoted 现在分词 promoting 第三人称单数 promotes ]
+
+###### quorum
+
+> All messaging operations which require a sync to disk will wait for the update to be replicated to a quorum of the nodes before completing
+
+​	英 [ˈkwɔːrəm] 美 [ˈkwɔːrəm] 
+
+- n. 法定人数
+
+> Well, it looks like we have a quorum! 
+>
+> 嗯，看起来我们法定人数够了！
+
+
+
+###### synopsis
+
+​	英 [sɪˈnɒpsɪs] 美 [sɪˈnɑːpsɪs] 
+
+- n. 概要，大纲
+
+> For each title there is a brief synopsis of the book. 
+>
+> 每本书都附有一个该书的简短提要
+
+
+
+###### brief
+
+​	英 [briːf] 美 [briːf] 
+
+- adj. 简短的，简洁的；短暂的，草率的
+- n. 摘要，简报；概要，诉书
+- vt. 简报，摘要；作…的提要
+- n. （Brief）（英）布里夫（人名）
+
+[ 复数 briefs 过去式 briefed 过去分词 briefed 现在分词 briefing 第三人称单数 briefs ]
+
+
+
+###### reliable
+
+> Apache ZooKeeper is an effort to develop and maintain an open-source server which enables highly reliable distributed coordination.
+
+​	英 [rɪˈlaɪəbl] 美 [rɪˈlaɪəbl] 
+
+- adj. 可靠的；可信赖的
+- n. 可靠的人
+
+[ 比较级 more reliable 最高级 most reliable ]
+
+###### reliability
+
+> Kafka can not meet our requirements especially in terms of low latency and high reliability
+
+​	英 [rɪˌlaɪəˈbɪləti] 美 [rɪˌlaɪəˈbɪləti] 
+
+- n. 可靠性
+
+[ 复数 reliabilities ]
+
+###### distributed
+
+> Apache ZooKeeper is an effort to develop and maintain an open-source server which enables highly reliable distributed coordination.
+
+###### expertise
+
+> We encourage you to learn about the project and contribute your expertise
+
+​	英 [ˌekspɜːˈtiːz] 美 [ˌekspɜːrˈtiːz] 
+
+- n. 专门知识；专门技术；专家的意见
+
+
+
+###### unify
+
+​	英 [ˈjuːnɪfaɪ] 美 [ˈjuːnɪfaɪ] 
+
+- v. 整合，联合；统一，使成一体
+
+[ 过去式 unified 过去分词 unified 现在分词 unifying 第三人称单数 unifies ]	
+
+###### unified
+
+> Apache RocketMQ is a unified messaging engine
+
+###### motivation
+
+​	英 [ˌməʊtɪˈveɪʃn] 美 [ˌmoʊtɪˈveɪʃn] 
+
+​	n. 动机；积极性；推动
+
+​	[ 复数 motivations ]
+
+
+
+###### though
+
+###### through
+
+###### although
+
+###### neck
+
+> bottleneck
+
+###### unfortunately
+
+###### nod
+
+​	英 [nɒd] 美 [nɑːd] 
+
+- v. 点头；点头表示；打盹；摆动；（英足）顶球
+- n. 点头；点头表示；打盹；摆动；同意，让步
+
+[ 过去式 nodded 过去分词 nodded 现在分词 nodding ]
+
+
+
+###### disadvantage
+
+> What does the woman say is the disadvantage of working from home?
+
+###### cafe
+
+> What does the woman like about doing one’s work in a café?
+
+###### annoy
+
+###### annoying
+
+> What is most annoying for café owners according to the woman?
+
+###### at time
+
+> Yes and no, I find an isolation challenging at times
+
+​	偶尔，有时
+
+
+
+###### apart from
+
+> Yes and no, I find an isolation challenging at times, apart from(除了) my mother, not too many people I know, have time for phone chat during working hour.
+
+###### inspiration
+
+	> I find the library a bit too quiet. I’d lack inspiration or stimulation, which would be counter-productive to getting a lot of work done.
+
+###### stimulation
+
+	> I find the library a bit too quiet. I’d lack inspiration or stimulation, which would be counter-productive to getting a lot of work done.
+
+###### lately
+
+> 近来
+
+###### digital age
+
+​	数字时代
+
+###### shop
+
+> coffee shop
+
+​	英 [ʃɒp] 美 [ʃɑːp] 
+
+- n. 商店；店铺
+- vt. 购物
+- vi. 购物；买东西
+
+[ 过去式 shopped 过去分词 shopped 现在分词 shopping 复数 shops 第三人称单数 shops ]
+
+###### order
+
+> can I take your order?	请您点菜
+>
+> Yes, some people seem to spend a lot of time there and not order much
+
+###### occupy
+
+> The most annoying one for Café owners must truly be those, usually only two of them, who occupy a table for six with their laptops and paperwork.
+
+###### laptop
+
+###### lap
+
+###### truly
+
+###### trip
+
+###### trip over
+
+> I nearly tripped over someone’s computer electrical lead the other day in my local café.
+
+###### lead
+
+> I nearly tripped over someone’s computer electrical lead (导线)the other day in my local café.
+
+###### edged
+
+> double-edged sword
+
+###### valuable
 
 ### 2021
 
