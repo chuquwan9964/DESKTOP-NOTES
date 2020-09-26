@@ -1037,6 +1037,12 @@ over a period of time	一段时间
 
 
 
+> 发布，提出
+>
+> A Redis transaction is entered using the [MULTI](https://redis.io/commands/multi) command. The command always replies with `OK`. At this point the user can issue multiple commands.
+
+> Issue a `GET` command to get the key `foo`.
+
 
 
 ###### moral
@@ -3271,6 +3277,251 @@ vt. 维护,维持；继续；维修；主张；供养
 > double-edged sword
 
 ###### valuable
+
+###### not least
+
+> women play an important part in every echelon of our society - not least in science
+
+
+
+###### innovation
+
+
+
+##### 22th
+
+###### exploit
+
+> ##  Redis is single threaded. How can I exploit multiple CPU / cores?
+
+​	英 [ɪkˈsplɔɪt] 美 [ɪkˈsplɔɪt] 
+
+- vt. 开发，开拓；剥削；开采，利用
+- n. 勋绩；功绩
+
+[ 过去式 exploited 过去分词 exploited 现在分词 exploiting 第三人称单数 exploits ]
+
+
+
+###### lower
+
+> ## Is there something I can do to lower the Redis memory usage?
+
+
+
+
+
+
+
+
+
+###### intersect
+
+> Intersect multiple sets
+
+​	英 [ˌɪntəˈsekt] 美 [ˌɪntərˈsekt] 
+
+- vi. 相交，交叉
+- vt. 横断，横切；贯穿
+
+[ 过去式 intersected 过去分词 intersected 现在分词 intersecting 第三人称单数 intersects ]
+
+> The orbit of this comet intersects the orbit of the Earth.
+>
+> 这颗彗星的轨道和地球的轨道相交。
+
+
+
+
+
+###### subtract
+
+> Subtract multiple sets
+
+​	subtract英 [səbˈtrækt] 美 [səbˈtrækt] 
+
+- vt. 减去；扣掉
+
+[ 过去式 subtracted 过去分词 subtracted 现在分词 subtracting 第三人称单数 subtracts ]
+
+> The pupil could add and subtract but hadn't learned to divide. 
+>
+> 这名小学生能做加法和减法，但还没学会做除法。
+
+
+
+###### longitude
+
+​	经度
+
+###### latitude
+
+​	纬度
+
+###### radius
+
+###### divide
+
+> Bit operations are divided into two groups
+
+###### extreme
+
+> One of the biggest advantages of bitmaps is that they often provide extreme space savings when storing information.
+
+###### bitwise
+
+​	**（计算机）逐位，按位**
+
+###### foundation
+
+> [MULTI](https://redis.io/commands/multi), [EXEC](https://redis.io/commands/exec), [DISCARD](https://redis.io/commands/discard) and [WATCH](https://redis.io/commands/watch) are the foundation of transactions in Redis
+
+###### reply
+
+> The command always replies with `OK`
+
+
+
+###### optimistic
+
+> Optimistic locking using check-and-set
+
+
+
+###### free
+
+> It offers both low-level and high-level abstractions for interacting with the store, freeing(解放) the user from infrastructural concerns.
+
+###### concept
+
+###### infrastructure
+
+​		英 [ˈɪnfrəstrʌktʃə(r)] 美 [ˈɪnfrəstrʌktʃər] 
+
+- n. 基础设施；公共建设；下部构造
+
+###### infrastructural
+
+​	英 [ˌɪnfrəˈstrʌktʃərəl] 美 [ˌɪnfrəˈstrʌktʃərəl] 
+
+- adj. 基础结构的；构造基底的
+
+###### concern
+
+​		英 [kənˈsɜːn] 美 [kənˈsɜːrn] 
+
+- vt. 影响，牵扯（某人）；关系到，涉及；使担心
+- n. 担心，忧虑；关爱，关心；关心的事，负责的事；关系；公司，企业；（非正式）复杂的物体
+
+
+
+###### advanced
+
+> Lettuce - Advanced Java Redis client
+
+
+
+###### milestone
+
+> 里程碑
+
+###### overcome
+
+> This way you can overcome those strange errors and achieve great performance.
+
+###### adopt
+
+​	采取
+
+
+
+##### 23th
+
+###### compromise
+
+> fsync only one time every second. Compromise.
+
+###### optimize
+
+> [Reactor](https://projectreactor.io/) is a highly optimized reactive library for building efficient, non-blocking applications on the JVM based on the [Reactive Streams Specification](https://github.com/reactive-streams/reactive-streams-jvm).
+
+###### intermediate
+
+> This enables exchange of data between threads with well-defined memory usage, avoiding unnecessary intermediate buffering or blocking.
+
+###### immediately
+
+###### reactive
+
+​	英 [riˈæktɪv] 美 [riˈæktɪv] 
+
+- adj. 反应的；电抗的；反动的
+
+###### react
+
+​	反应
+
+###### Reactor
+
+​	反应器
+
+
+
+###### efficient
+
+	> [Reactor](https://projectreactor.io/) is a highly optimized reactive library for building efficient, non-blocking applications on the JVM based on the [Reactive Streams Specification](https://github.com/reactive-streams/reactive-streams-jvm).
+
+
+
+###### interact
+
+> Lettuce is a scalable thread-safe Redis client based on [netty](http://netty.io/) and Reactor. Lettuce provides [synchronous](https://lettuce.io/core/release/reference/index.html#basic-usage), [asynchronous](https://lettuce.io/core/release/reference/index.html#asynchronous-api) and [reactive](https://lettuce.io/core/release/reference/index.html#reactive-api) APIs to interact with Redis.
+
+
+
+##### 24th
+
+###### force
+
+> The force would be composed of troops from NATO countries.
+
+
+
+###### emit
+
+> A Reactive Streams {@link Publisher} with rx operators that emits 0 to N elements, and then completes
+
+
+
+###### dedicated
+
+> For more information, see the dedicated [section](https://docs.spring.io/spring/docs/5.2.9.RELEASE/spring-framework-reference/data-access.html#orm-exception-translation) in the Spring Framework documentation.
+
+> Spring Data provides dedicated messaging integration for Redis
+
+
+
+###### translation
+
+###### translate
+
+###### tweak
+
+> There are also a few Lettuce-specific connection parameters that can be tweaked.
+
+
+
+###### interaction
+
+> Sometimes, direct interaction with one of the Sentinels is required.
+
+
+
+###### intensive
+
+> as a convenient one-stop solution for intensive String operations.
+
+
 
 ### 2021
 
