@@ -1,0 +1,93 @@
+(node:29522) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/pathwatcher/build/Release/pathwatcher.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:29522) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(node:29522) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/spellchecker/build/Release/spellchecker.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:30442) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/pathwatcher/build/Release/pathwatcher.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:30442) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(node:30442) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/spellchecker/build/Release/spellchecker.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:7382) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/pathwatcher/build/Release/pathwatcher.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:7382) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/spellchecker/build/Release/spellchecker.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:7382) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+[7324:1004/114632.722421:FATAL:gpu_data_manager_impl_private.cc(439)] GPU process isn't usable. Goodbye.
+(node:9064) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/pathwatcher/build/Release/pathwatcher.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:9064) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(node:9064) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/spellchecker/build/Release/spellchecker.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:27062) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/pathwatcher/build/Release/pathwatcher.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:27062) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/spellchecker/build/Release/spellchecker.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:27062) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(node:9314) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/pathwatcher/build/Release/pathwatcher.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:9314) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/spellchecker/build/Release/spellchecker.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:9314) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(node:12153) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/pathwatcher/build/Release/pathwatcher.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:12153) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/spellchecker/build/Release/spellchecker.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:6546) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/pathwatcher/build/Release/pathwatcher.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:6546) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/spellchecker/build/Release/spellchecker.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:6546) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(node:7594) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/pathwatcher/build/Release/pathwatcher.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:7594) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(node:7594) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/spellchecker/build/Release/spellchecker.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:8135) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(node:8135) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/spellchecker/build/Release/spellchecker.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:8135) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/pathwatcher/build/Release/pathwatcher.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:29505) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/pathwatcher/build/Release/pathwatcher.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:29505) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(node:5007) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/pathwatcher/build/Release/pathwatcher.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:5007) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/spellchecker/build/Release/spellchecker.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:5007) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(node:6649) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/pathwatcher/build/Release/pathwatcher.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:6649) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+
+(Typora:4949): Gtk-WARNING **: 11:20:07.181: Could not load a pixbuf from icon theme.
+This may indicate that pixbuf loaders or the mime database could not be found.
+(node:6649) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/spellchecker/build/Release/spellchecker.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:13155) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/pathwatcher/build/Release/pathwatcher.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:13155) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/spellchecker/build/Release/spellchecker.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:13155) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(node:13750) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/pathwatcher/build/Release/pathwatcher.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:13840) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/pathwatcher/build/Release/pathwatcher.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:13840) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/spellchecker/build/Release/spellchecker.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+[13783:1007/195659.113182:FATAL:gpu_data_manager_impl_private.cc(439)] GPU process isn't usable. Goodbye.
+(node:13983) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/pathwatcher/build/Release/pathwatcher.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:13983) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/spellchecker/build/Release/spellchecker.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:13983) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(node:15755) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/pathwatcher/build/Release/pathwatcher.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:15755) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+
+(Typora:13925): Gtk-WARNING **: 20:08:12.917: Could not load a pixbuf from icon theme.
+This may indicate that pixbuf loaders or the mime database could not be found.
+(node:15755) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/spellchecker/build/Release/spellchecker.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+[13925:1008/010252.217361:FATAL:gpu_data_manager_impl_private.cc(439)] GPU process isn't usable. Goodbye.
+(node:5774) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/pathwatcher/build/Release/pathwatcher.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:5774) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/spellchecker/build/Release/spellchecker.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+[5704:1008/105926.319298:FATAL:gpu_data_manager_impl_private.cc(439)] GPU process isn't usable. Goodbye.
+(node:5986) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/pathwatcher/build/Release/pathwatcher.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:5986) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/spellchecker/build/Release/spellchecker.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:5986) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(node:6026) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+
+(Typora:5916): Gtk-WARNING **: 10:59:48.944: Could not load a pixbuf from icon theme.
+This may indicate that pixbuf loaders or the mime database could not be found.
+(node:6026) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/spellchecker/build/Release/spellchecker.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:6026) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/pathwatcher/build/Release/pathwatcher.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:5777) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/pathwatcher/build/Release/pathwatcher.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:5777) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/spellchecker/build/Release/spellchecker.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+[5708:1010/100456.728641:FATAL:gpu_data_manager_impl_private.cc(439)] GPU process isn't usable. Goodbye.
+(node:5967) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/pathwatcher/build/Release/pathwatcher.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:5967) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/spellchecker/build/Release/spellchecker.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:7460) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+
+(Typora:5899): Gtk-WARNING **: 10:22:05.989: Could not load a pixbuf from icon theme.
+This may indicate that pixbuf loaders or the mime database could not be found.
+(node:7460) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/spellchecker/build/Release/spellchecker.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:5967) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(node:24118) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/pathwatcher/build/Release/pathwatcher.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:24306) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/pathwatcher/build/Release/pathwatcher.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:24306) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(node:11856) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/pathwatcher/build/Release/pathwatcher.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:11977) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/pathwatcher/build/Release/pathwatcher.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:11977) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/spellchecker/build/Release/spellchecker.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+[5899:1010/204406.833554:FATAL:gpu_data_manager_impl_private.cc(439)] GPU process isn't usable. Goodbye.
+(node:30146) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/pathwatcher/build/Release/pathwatcher.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:30146) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/spellchecker/build/Release/spellchecker.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:30146) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(node:4118) Electron: Loading non-context-aware native module in renderer: '/app/Typora-linux-x64/resources/app/node_modules/pathwatcher/build/Release/pathwatcher.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:4118) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.

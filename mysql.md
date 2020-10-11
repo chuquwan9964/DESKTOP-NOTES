@@ -1593,31 +1593,31 @@ show create view 视图名
 
 ​	查看所有的系统变量
 
-```
+```mysql
 show global variables
 show session variables
-
 ```
 
 ​	查看满足条件的系统变量
 
-```
+```mysql
 show global variables like '%xxx%'
 show session variables like	'%xxx%'
 ```
 
 ​	查看某一特定的系统变量
 
-```
+```mysql
 select @@global.变量名		#查看全局变量
 select @@session.变量名	#查看会话变量
 ```
 
 ​	设置某一系统变量
 
-```
+```mysql
 set @@global.变量名		#设置全局变量
 set @@session.变量名		#设置会话变量
+set global VAR_NAME=VALUE
 ```
 
 
@@ -2538,6 +2538,74 @@ innodb_data_file_path=ibdata1:128M;ibdata2:128M;ibdata3:128M;autoextend
 set session transaction isolation level read committed;	# 设置默认隔离级别 
 ```
 
+##### 日志
+
+> SHOW GLOBAL VARIABLES LIKE '%log%'
+
+
+
+###### 查询日志
+
+`默认是关闭的，因为数据库查询操作很多，不可能每查一个就记录一次日志`
+
+**相关参数**
+
+```mysql
+general_log  			是否开启查询日志，默认为false
+general_log_file		  查询日志的文件放在哪里(默认为datadir/HOSTNAME.log)
+log_output			      日志的格式为什么?(有FILE和TABLE两种格式)
+	FILE格式:	将日志写到一个文件里
+	TABLE格式：将日志写到表中，实现结构化
+```
+
+
+
+###### 慢查询日志
+
+`默认是关闭的`
+
+**相关参数**
+
+```mysql
+slow_query_log		是否开启(OFF|ON)
+slow_query_log_file	    日志文件位置
+long_query_time         时间(超过此时间即为慢查询)
+long_queries_not_using_indexes	没有索引的查询(如果此查询没有索引，那么它也会被记入慢日志中)
+```
+
+**查看慢日志的命令**
+
+```bash
+mysqldumpslow --help
+
+  --verbose    verbose
+  --debug      debug
+  --help       write this text to standard output
+
+  -v           verbose
+  -d           debug
+  -s ORDER     what to sort by (al, at, ar, c, l, r, t), 'at' is default
+                al: average lock time
+                ar: average rows sent
+                at: average query time
+                 c: count
+                 l: lock time
+                 r: rows sent
+                 t: query time  
+  -r           reverse the sort order (largest last instead of first)
+  -t NUM       just show the top n queries
+  -a           don't abstract all numbers to N and strings to 'S'
+  -n NUM       abstract numbers with at least n digits within names
+  -g PATTERN   grep: only consider stmts that include this string
+  -h HOSTNAME  hostname of db server for *-slow.log filename (can be wildcard),
+               default is '*', i.e. match all
+  -i NAME      name of server instance (if using mysql.server startup script)
+  -l           don't subtract lock time from total time
+
+
+
+mysqldumpslow -s c -t 5	# 取出slowlog中查询次数最多的前5条数据
+```
 
 
 
@@ -2545,4 +2613,145 @@ set session transaction isolation level read committed;	# 设置默认隔离级�
 
 
 
+
+
+###### 错误日志
+
+- mysql启动或关闭过程中输出的事件信息
+- mysql运行中产生的错误信息
+- event scheduler运行一个event时产生的日志信息
+- 在主从复制架构中从服务器启动线程时产生的信息
+
+**相关参数**
+
+```
+log_error	指明文件路径
+log_wranings	是否记录警告信息(1：记录，0：不记录)
+```
+
+
+
+###### 二进制日志
+
+**作用**
+
+​	数据恢复
+
+​	主从复制	
+
+​	
+
+
+
+
+
+​	`show binary|master logs`
+
+​		显示当前的二进制日志列表
+
+​	`show master status`
+
+​		查看使用中的二进制日志文件信息
+
+​	`show binlog events in 'BIN_LOG_NAME'`
+
+​		查看此二进制日志文件的event事件信息
+
+**相关参数**
+
+```mysql
+binlog_format		二进制日志的类型(statement(5.6默认)|row(5.7默认)|mixed)
+	statement	:	二进制日志记录命令
+	row		      :	    二进制日志记录数据
+	mixed	       :	混合
+sql_log_bin		是否记录二进制日志(ON|OFF)(可以临时的关闭binlog功能)
+log_bin		       是否开启二进制日志(/FILE/TO/SOMEWHERE)
+	以上两者必须都开启才会生效
+max_binlog_size		二进制日志文件的最大大小(单位为字节)，默认为1G，到达最大值会自动滚动
+sync_binlog
+expire_logs_days	二进制日志隔多少天自动删除一次(0代表永不删除)
+```
+
+​	**开启二进制日志**
+
+```bash
+vim /etc/my.cnf
+log-bin=/data/3306/mysql-bin
+server-id=1	# 添加此参数用于在复制中，为主库和备库提供一个独立的ID，以区分主库和备库；开启二进制文件的时候，需要设置这个参数
+```
+
+
+
+​	**查询二进制日志信息**
+
+​		mysqllogbin(故障回复哟)
+
+​			--start-position	指定事件的起始位置
+
+​			--stop-position	指定事件的结束位置		
+
+​			-d	指定数据库提取binlog信息
+
+​			--start-datetime    指定事件的起始时间
+
+​			--stop-datatime	指定事件的结束时间
+
+
+
+​	**手动滚动 binlog**
+
+```mysql
+flush logs;
+```
+
+
+
+​	**删除二进制日志**
+
+​		可以指定周期自动删除
+
+```mysql
+expire_logs_days	二进制日志隔多少天自动删除一次(0代表永不删除)
+```
+
+​		可以手动删除
+
+```mysql
+mysql> help purge binary logs;
+Name: 'PURGE BINARY LOGS'
+Description:
+Syntax:
+PURGE { BINARY | MASTER } LOGS {
+    TO 'log_name'
+  | BEFORE datetime_expr
+}
+
+The binary log is a set of files that contain information about data
+modifications made by the MySQL server. The log consists of a set of
+binary log files, plus an index file (see
+https://dev.mysql.com/doc/refman/5.7/en/binary-log.html).
+
+The PURGE BINARY LOGS statement deletes all the binary log files listed
+in the log index file prior to the specified log file name or date.
+BINARY and MASTER are synonyms. Deleted log files also are removed from
+the list recorded in the index file, so that the given log file becomes
+the first in the list.
+
+PURGE BINARY LOGS requires the BINLOG_ADMIN
+(https://dev.mysql.com/doc/refman/8.0/en/privileges-provided.html#priv_
+binlog-admin) privilege. This statement has no effect if the server was
+not started with the --log-bin option to enable binary logging.
+
+URL: https://dev.mysql.com/doc/refman/5.7/en/purge-binary-logs.html
+
+Examples:
+PURGE BINARY LOGS TO 'mysql-bin.010';	# 保留第10个，删除1-9
+PURGE BINARY LOGS BEFORE '2019-04-02 22:46:26';
+```
+
+​	全部清空
+
+```mysql
+reset master
+```
 
