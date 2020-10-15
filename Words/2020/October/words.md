@@ -1,4 +1,6 @@
-**W**hen the God is about to grant a man great responsibility, he would first frustrate his spirit and will , toiling his flesh 		   
+​		   
+
+**W**hen the God is about to grant a man great responsibility, he would first frustrate his spirit and will , toiling his flesh 		   	 
 
 and bone, staving him always, exhausting his body and disordering his actions, so that he will be persistent and    	
 

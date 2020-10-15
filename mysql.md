@@ -2569,6 +2569,7 @@ log_output			      日志的格式为什么?(有FILE和TABLE两种格式)
 ```mysql
 slow_query_log		是否开启(OFF|ON)
 slow_query_log_file	    日志文件位置
+<<<<<<< HEAD
 slow_launch_time         时间(超过此时间即为慢查询)
 ```
 
@@ -2586,7 +2587,38 @@ log_error	指明文件路径
 log_wranings	是否记录警告信息(1：记录，0：不记录)
 ```
 
+**查看慢日志的命令**
 
+```bash
+mysqldumpslow --help
+
+  --verbose    verbose
+  --debug      debug
+  --help       write this text to standard output
+
+  -v           verbose
+  -d           debug
+  -s ORDER     what to sort by (al, at, ar, c, l, r, t), 'at' is default
+                al: average lock time
+                ar: average rows sent
+                at: average query time
+                 c: count
+                 l: lock time
+                 r: rows sent
+                 t: query time  
+  -r           reverse the sort order (largest last instead of first)
+  -t NUM       just show the top n queries
+  -a           don't abstract all numbers to N and strings to 'S'
+  -n NUM       abstract numbers with at least n digits within names
+  -g PATTERN   grep: only consider stmts that include this string
+  -h HOSTNAME  hostname of db server for *-slow.log filename (can be wildcard),
+               default is '*', i.e. match all
+  -i NAME      name of server instance (if using mysql.server startup script)
+  -l           don't subtract lock time from total time
+  
+  
+  mysqldumpslow -s c -t 5	# 取出slowlog中查询次数最多的前5条数据
+```
 
 ###### 二进制日志
 
@@ -2595,12 +2627,6 @@ log_wranings	是否记录警告信息(1：记录，0：不记录)
 ​	数据恢复
 
 ​	主从复制	
-
-​	
-
-
-
-
 
 ​	`show binary|master logs`
 
@@ -2759,9 +2785,9 @@ mysql> explain select * from student where name = 'sjh' and age > 20;
 
 **user表**
 
-
-
 ```mysql
+
+
 CREATE TABLE `user` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `name` varchar(20) DEFAULT NULL,
@@ -2797,8 +2823,6 @@ mysql> explain select * from user where id not in (11,22);
 ```
 
 why?why?why?
-
-
 
 
 
@@ -2927,6 +2951,5 @@ innodb_change_buffering			# 允许什么操作使用change buffer，默认是全
   
     ​	
 
-​	
 
-​			
+
