@@ -1593,31 +1593,31 @@ show create view 视图名
 
 ​	查看所有的系统变量
 
-```
+```mysql
 show global variables
 show session variables
-
 ```
 
 ​	查看满足条件的系统变量
 
-```
+```mysql
 show global variables like '%xxx%'
 show session variables like	'%xxx%'
 ```
 
 ​	查看某一特定的系统变量
 
-```
+```mysql
 select @@global.变量名		#查看全局变量
 select @@session.变量名	#查看会话变量
 ```
 
 ​	设置某一系统变量
 
-```
+```mysql
 set @@global.变量名		#设置全局变量
 set @@session.变量名		#设置会话变量
+set global VAR_NAME=VALUE
 ```
 
 
@@ -1722,7 +1722,7 @@ SELECT @name	//K_ing
 
 ###### 空参的存储过程DEMO
 
-![58633541132](F:\360MoveData\Users\dell\Desktop\学习笔记\图片\1586335411321.png)
+![58633541132](./图片/1586335411321.png)
 
 ![58633567063](F:\360MoveData\Users\dell\Desktop\学习笔记\图片\1586335670637.png)
 
@@ -2159,7 +2159,7 @@ MariaDB [db03]> explain select * from user where id = 1;
 
 ​		**查询的字段是唯一的**
 
-![58644305573](F:\360MoveData\Users\dell\Desktop\学习笔记\图片\1586443055733.png)
+![58644305573](.\图片\1586443055733.png)
 
 
 
@@ -2169,7 +2169,7 @@ MariaDB [db03]> explain select * from user where id = 1;
 
 ​		根据某个索引查询到的结果不止一个，比如说员工的部门外键，一个部门可以有多个员工
 
-![58644359467](F:\360MoveData\Users\dell\Desktop\学习笔记\图片\1586443594676.png)
+![58644359467](.\图片\1586443594676.png)
 
 
 
@@ -2538,11 +2538,395 @@ innodb_data_file_path=ibdata1:128M;ibdata2:128M;ibdata3:128M;autoextend
 set session transaction isolation level read committed;	# 设置默认隔离级别 
 ```
 
+##### 日志
+
+> SHOW GLOBAL VARIABLES LIKE '%log%'
+
+
+
+###### 查询日志
+
+`默认是关闭的，因为数据库查询操作很多，不可能每查一个就记录一次日志`
+
+**相关参数**
+
+```mysql
+general_log  			是否开启查询日志，默认为false
+general_log_file		  查询日志的文件放在哪里(默认为datadir/HOSTNAME.log)
+log_output			      日志的格式为什么?(有FILE和TABLE两种格式)
+	FILE格式:	将日志写到一个文件里
+	TABLE格式：将日志写到表中，实现结构化
+```
+
+
+
+###### 慢查询日志
+
+`默认是关闭的`
+
+**相关参数**
+
+```mysql
+slow_query_log		是否开启(OFF|ON)
+slow_query_log_file	    日志文件位置
+slow_launch_time         时间(超过此时间即为慢查询)
+```
+
+###### 错误日志
+
+- mysql启动或关闭过程中输出的事件信息
+- mysql运行中产生的错误信息
+- event scheduler运行一个event时产生的日志信息
+- 在主从复制架构中从服务器启动线程时产生的信息
+
+**相关参数**
+
+```
+log_error	指明文件路径
+log_wranings	是否记录警告信息(1：记录，0：不记录)
+```
+
+
+
+###### 二进制日志
+
+**作用**
+
+​	数据恢复
+
+​	主从复制	
+
+​	
 
 
 
 
 
+​	`show binary|master logs`
+
+​		显示当前的二进制日志列表
+
+​	`show master status`
+
+​		查看使用中的二进制日志文件信息
+
+​	`show binlog events in 'BIN_LOG_NAME'`
+
+​		查看此二进制日志文件的event事件信息
+
+**相关参数**
+
+```mysql
+binlog_format		二进制日志的类型(statement(5.6默认)|row(5.7默认)|mixed)
+	statement	:	二进制日志记录命令
+	row		      :	    二进制日志记录数据
+	mixed	       :	混合
+sql_log_bin		是否记录二进制日志(ON|OFF)(可以临时的关闭binlog功能)
+log_bin		       是否开启二进制日志(/FILE/TO/SOMEWHERE)
+	以上两者必须都开启才会生效
+max_binlog_size		二进制日志文件的最大大小(单位为字节)，默认为1G，到达最大值会自动滚动
+sync_binlog
+expire_logs_days	二进制日志隔多少天自动删除一次(0代表永不删除)
+```
+
+​	**开启二进制日志**
+
+```bash
+vim /etc/my.cnf
+log-bin=/data/3306/mysql-bin
+server-id=1	# 添加此参数用于在复制中，为主库和备库提供一个独立的ID，以区分主库和备库；开启二进制文件的时候，需要设置这个参数
+```
 
 
 
+​	**查询二进制日志信息**
+
+​		mysqllogbin(故障回复哟)
+
+​			--start-position	指定事件的起始位置
+
+​			--stop-position	指定事件的结束位置		
+
+​			-d	指定数据库提取binlog信息
+
+​			--start-datetime    指定事件的起始时间
+
+​			--stop-datatime	指定事件的结束时间
+
+
+
+​	**手动滚动 binlog**
+
+```mysql
+flush logs;
+```
+
+
+
+​	**删除二进制日志**
+
+​		可以指定周期自动删除
+
+```mysql
+expire_logs_days	二进制日志隔多少天自动删除一次(0代表永不删除)
+```
+
+​		可以手动删除
+
+```mysql
+mysql> help purge binary logs;
+Name: 'PURGE BINARY LOGS'
+Description:
+Syntax:
+PURGE { BINARY | MASTER } LOGS {
+    TO 'log_name'
+  | BEFORE datetime_expr
+}
+
+The binary log is a set of files that contain information about data
+modifications made by the MySQL server. The log consists of a set of
+binary log files, plus an index file (see
+https://dev.mysql.com/doc/refman/5.7/en/binary-log.html).
+
+The PURGE BINARY LOGS statement deletes all the binary log files listed
+in the log index file prior to the specified log file name or date.
+BINARY and MASTER are synonyms. Deleted log files also are removed from
+the list recorded in the index file, so that the given log file becomes
+the first in the list.
+
+PURGE BINARY LOGS requires the BINLOG_ADMIN
+(https://dev.mysql.com/doc/refman/8.0/en/privileges-provided.html#priv_
+binlog-admin) privilege. This statement has no effect if the server was
+not started with the --log-bin option to enable binary logging.
+
+URL: https://dev.mysql.com/doc/refman/5.7/en/purge-binary-logs.html
+
+Examples:
+PURGE BINARY LOGS TO 'mysql-bin.010';	# 保留第10个，删除1-9
+PURGE BINARY LOGS BEFORE '2019-04-02 22:46:26';
+```
+
+​	全部清空
+
+```mysql
+reset master
+```
+
+
+
+
+
+##### optimize
+
+###### 索引下推
+
+ICP
+
+​	**index condition pushdown**
+
+​	何为索引下推?
+
+- 不使用索引条件下推优化时存储引擎通过索引检索到数据，然后返回给MySQL服务器，服务器然后判断数据是否符合条件。
+- **当使用索引条件下推优化时，如果存在某些\**被索引的列的判断条件时\**，MySQL服务器将这一部分判断条件传递给存储引擎，然后\**由存储引擎通过判断索引是否符合MySQL服务器传递的条件\**，只有当索引符合条件时才会将数据检索出来返回给MySQL服务器**。索引条件下推优化可以减少存储引擎查询基础表的次数，也可以减少MySQL服务器从存储引擎接收数据的次数。
+
+example:
+
+​	我有一个表
+
+```mysql
+CREATE TABLE `student` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `name` varchar(20) DEFAULT NULL,
+  `gender` varchar(10) DEFAULT NULL,
+  `age` int(11) DEFAULT NULL,
+  PRIMARY KEY (`id`),
+  KEY `i1` (`name`,`age`)	# i1为name和age的索引
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 |
+```
+
+​	当这样查询时，就会出现索引下推
+
+```mysql
+mysql> explain select * from student where name = 'sjh' and age > 20;
++----+-------------+---------+------------+-------+---------------+------+---------+------+------+----------+-----------------------+
+| id | select_type | table   | partitions | type  | possible_keys | key  | key_len | ref  | rows | filtered | Extra                 |
++----+-------------+---------+------------+-------+---------------+------+---------+------+------+----------+-----------------------+
+|  1 | SIMPLE      | student | NULL       | range | i1            | i1   | 88      | NULL |    1 |   100.00 | Using index condition |
++----+-------------+---------+------------+-------+---------------+------+---------+------+------+----------+-----------------------+
+```
+
+
+
+**user表**
+
+
+
+```mysql
+CREATE TABLE `user` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `name` varchar(20) DEFAULT NULL,
+  `age` int(11) DEFAULT NULL,
+  `address` varchar(20) DEFAULT NULL,
+  PRIMARY KEY (`id`),
+  KEY `age` (`age`)
+) ENGINE=InnoDB AUTO_INCREMENT=10019201 DEFAULT CHARSET=utf8mb4 
+```
+
+
+
+但是为什么这样也会索引下推?
+
+```mysql
+mysql> explain select * from user where age in (11,22);
++----+-------------+-------+------------+-------+---------------+------+---------+------+--------+----------+----------------------------------+
+| id | select_type | table | partitions | type  | possible_keys | key  | key_len | ref  | rows   | filtered | Extra                            |
++----+-------------+-------+------------+-------+---------------+------+---------+------+--------+----------+----------------------------------+
+|  1 | SIMPLE      | user  | NULL       | range | age           | age  | 5       | NULL | 392192 |   100.00 | Using index condition; Using MRR |
++----+-------------+-------+------------+-------+---------------+------+---------+------+--------+----------+----------------------------------+
+```
+
+这样就不会索引下推
+
+```mysql
+mysql> explain select * from user where id not in (11,22);
++----+-------------+-------+------------+-------+---------------+---------+---------+------+---------+----------+-------------+
+| id | select_type | table | partitions | type  | possible_keys | key     | key_len | ref  | rows    | filtered | Extra       |
++----+-------------+-------+------------+-------+---------------+---------+---------+------+---------+----------+-------------+
+|  1 | SIMPLE      | user  | NULL       | range | PRIMARY       | PRIMARY | 4       | NULL | 4864669 |   100.00 | Using where |
++----+-------------+-------+------------+-------+---------------+---------+---------+------+---------+----------+-------------+
+```
+
+why?why?why?
+
+
+
+
+
+###### Nested-Loop Join Algorithms
+
+
+
+**A simple nested-loop join (NLJ)**
+
+```c
+Table   Join Type
+t1      range
+t2      ref
+t3      ALL
+    
+  for each row in t1 matching range {
+  for each row in t2 matching reference key {
+    for each row in t3 {
+      if row satisfies join conditions, send to client
+    }
+  }
+}
+```
+
+**A Block Nested-Loop (BNL) join algorithm**
+
+```c
+for each row in t1 matching range {
+  for each row in t2 matching reference key {
+    store used columns from t1, t2 in join buffer
+    if buffer is full {
+      for each row in t3 {
+        for each t1, t2 combination in join buffer {
+          if row satisfies join conditions, send to client
+        }
+      }
+      empty join buffer
+    }
+  }
+}
+
+if buffer is not empty {
+  for each row in t3 {
+    for each t1, t2 combination in join buffer {
+      if row satisfies join conditions, send to client
+    }
+  }
+}
+```
+
+
+
+- The [`join_buffer_size`](https://dev.mysql.com/doc/refman/5.7/en/server-system-variables.html#sysvar_join_buffer_size) system variable determines the size of each join buffer used to process a query
+  - 如果不够呢?
+
+
+
+###### buffer pool
+
+> 何为buffer pool？
+>
+> ​	The buffer pool is an area in main memory where `InnoDB` caches table and index data as it is accessed. The buffer pool permits frequently used data to be processed directly from memory, which speeds up processing. On dedicated servers, up to 80% of physical memory is often assigned to the buffer pool.
+
+https://dev.mysql.com/doc/refman/8.0/en/innodb-buffer-pool.html
+
+**相关参数**
+
+```properties
+innodb_buffer_pool_size	# 默认为一百多兆
+```
+
+
+
+###### change buffer
+
+> The change buffer is a special data structure that caches changes to [secondary index](https://dev.mysql.com/doc/refman/8.0/en/glossary.html#glos_secondary_index) pages when those pages are not in the [buffer pool](https://dev.mysql.com/doc/refman/8.0/en/glossary.html#glos_buffer_pool). The buffered changes, which may result from [`INSERT`](https://dev.mysql.com/doc/refman/8.0/en/insert.html), [`UPDATE`](https://dev.mysql.com/doc/refman/8.0/en/update.html), or [`DELETE`](https://dev.mysql.com/doc/refman/8.0/en/delete.html) operations (DML), are merged later when the pages are loaded into the buffer pool by other read operations.
+
+`change buffer只可以缓存索引页，并且只能是secondary index`
+
+https://dev.mysql.com/doc/refman/8.0/en/innodb-change-buffer.html
+
+**相关参数**
+
+```properties
+innodb_change_buffer_max_size	# 占buffer pool的百分比默认为25
+innodb_change_buffering			# 允许什么操作使用change buffer，默认是全部都使用，可以指定的选项如下:
+	all=The default value: buffer inserts, delete-marking operations, and purges.
+	none=Do not buffer any operations.
+	inserts=Buffer insert operations.
+	deletes=Buffer delete-marking operations.
+	changes=Buffer both inserts and delete-marking operations.
+	purges=Buffer the physical deletion operations that happen in the background.
+```
+
+- change buffer可以减少IO次数。
+
+  - ​	假设我们需要修改的索引页没有在buffer pool中，并且我们也没有使用change buffer，那么我们如果要修改这个索引页的话，则需要先将此索引页加载到buffer pool中，在内存中修改此索引页，然后将修改写入redo log。这样的话，会有两次磁盘IO。
+  - ​	如果我们使用了change buffer，那么第一次的IO就可以省掉了，而是直接将修改写入change buffer中，这样下次此索引页读的时候，数据库会将在硬盘中的索引页和change buffer进行合并，那么就得到了上次修改过后的索引页
+
+- change buffer只可以缓存secondary index(非唯一索引)中，为什么?
+
+  - 首先我们需要搞明白一个问题:	索引的增删改对应数据的什么?
+
+    - 索引的增对应增加了一行数据
+    - 索引的删除对应删除了一行数据
+    - 索引的更新对应更改了这一行的索引列的值
+    
+  - 那么为什么不适用于唯一索引呢?
+  
+  - 唯一索引的增，对应INSERT语句，这个时候需要检查这个INSERT语句中唯一索引列的唯一性，既然需要检查唯一性，那么必然是查询了这个唯一索引，既然查询了(也就是磁盘IO了)，那么就谈不上再将其载入change buffer了
+  - 唯一索引的更新，对应UPDATE语句(更新唯一索引列上的值，那么必然要更新唯一索引)，同上，要检查你更新后的唯一索引列上的值是否和别的列冲突(因为此列要求唯一)
+  - 唯一索引的删除，对应。。。。。。
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+    ​	
+
+​	
+
+​			

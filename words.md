@@ -1,4 +1,4 @@
-**W**hen the God is about to grant a man great responsibility, he would first frustrate his spirit and will , toiling his flesh 		   	 
+**W**hen the God is about to grant a man great responsibility, he would first frustrate his spirit and will , toiling his flesh 		   
 
 and bone, staving him always, exhausting his body and disordering his actions, so that he will be persistent and    	
 
@@ -2682,6 +2682,14 @@ n. (Term)人名；(泰)丁
 
 
 
+> 收缩
+>
+> The rear section of the brain, which controls functions like eating and breathing, does not contract with age, and one can continue living without intellectual or emotional faculties
+
+
+
+
+
 ###### agreement
 
 ​	英 [əˈɡriːmənt] 美 [əˈɡriːmənt] 
@@ -2720,7 +2728,11 @@ n. (Term)人名；(泰)丁
 
 > The parent Container attached to a Host is generally an Engine, but may be some other implementation, or may be omitted if it is not necessary.
 
+​	英 [əˈmɪt]   美 [oˈmɪt] 
 
+​	vt.  省略; 遗漏; 删掉; 未（做）;
+
+​	变形 过去分词: omitted 过去式: omitted 现在分词: omitting 第三人称单数: omits
 
 ###### characteristics
 
@@ -2804,7 +2816,26 @@ n. (Term)人名；(泰)丁
 
 ###### approach
 
-> The microservice architectural style is an approach to developing a single application as a suite of small services
+> The microservice architectural style is an approach(方法) to developing a single application as a suite of small services
+
+​	英 [əˈprəʊtʃ]   美 [əˈproʊtʃ] 
+
+​	vt.& vi.  接近，走近，靠近;
+
+​	vt.  接近; 着手处理; 使移近; 试图贿赂（或影响，疏通）;
+​	n.  方法; 途径; 接近;
+​	vi.  靠近;
+​	变形 过去分词: approached 复数: approaches 过去式: approached 现在分词: approaching 第三人称单数: approaches
+
+> 接近
+>
+> ​	One day you’re walking down the street, minding your own business, when suddenly a stranger approached with a smile on his face
+
+
+
+
+
+
 
 ###### suite
 
@@ -2815,6 +2846,12 @@ n. (Term)人名；(泰)丁
 ###### consist
 
 > The reference documentation consists of the following sections:
+
+​	英 [kənˈsɪst]   美 [kənˈsɪst] 
+
+​	vi.  由…组成; 在于; 符合;
+
+​	变形 过去分词: consisted 过去式: consisted 现在分词: consisting 第三人称单数: consists
 
 ###### legal
 
@@ -2828,7 +2865,9 @@ n. (Term)人名；(泰)丁
 
 > The Spring Framework is the leading full-stack Java/JEE application framework. It provides a lightweight container and a non-invasive programming model
 
+​	英 [ɪnˈveɪsɪv]   美 [ɪnˈvesɪv] 
 
+​	adj.  侵略性的，侵害的; 攻击性的; 扩散性的，蔓延性的;
 
 ###### alternative
 
@@ -3161,6 +3200,8 @@ vt. 维护,维持；继续；维修；主张；供养
 
 ###### motivation
 
+>  He admitted a lack of motivation and a feeling of sloth
+
 ​	英 [ˌməʊtɪˈveɪʃn] 美 [ˌmoʊtɪˈveɪʃn] 
 
 ​	n. 动机；积极性；推动
@@ -3222,9 +3263,25 @@ vt. 维护,维持；继续；维修；主张；供养
 
 	> I find the library a bit too quiet. I’d lack inspiration or stimulation, which would be counter-productive to getting a lot of work done.
 
+​	英 [ˌɪnspəˈreɪʃn]   美 [ˌɪnspəˈreʃən] 
+
+	n.  灵感; 鼓舞人心的人或事; 启发灵感的人（或事物）; 吸气;
+
+​	变形 复数: inspirations
+
+
+
 ###### stimulation
 
 	> I find the library a bit too quiet. I’d lack inspiration or stimulation, which would be counter-productive to getting a lot of work done.
+
+​	英 [ˌstɪmjʊ'leɪʃn]   美 [ˌstɪmjʊ'leɪʃn] 
+
+​	n.  刺激; 激发; 启发; 促进;
+
+
+
+
 
 ###### lately
 
@@ -3264,6 +3321,12 @@ vt. 维护,维持；继续；维修；主张；供养
 
 ###### trip
 
+​	英 [trɪp]   美 [trɪp]
+
+	n.  旅游; 幻觉; 绊倒;
+​	v.  绊倒; 轻快地走; 产生幻觉;
+​	变形 过去分词: tripped 复数: trips 过去式: tripped 现在分词: tripping 第三人称单数: trips
+
 ###### trip over
 
 > I nearly tripped over someone’s computer electrical lead the other day in my local café.
@@ -3280,13 +3343,17 @@ vt. 维护,维持；继续；维修；主张；供养
 
 ###### not least
 
-> women play an important part in every echelon of our society - not least in science
+> women play an important part in every echelon of our society - not least(尤其是，特别是) in science
 
 
 
 ###### innovation
 
+​	英 [ˌɪnəˈveɪʃn]   美 [ˌɪnəˈveʃən] 
 
+​	n.  改革，创新; 新观念; 新发明; 新设施;
+
+​	变形 复数: innovations
 
 ##### 22th
 
@@ -3332,7 +3399,11 @@ vt. 维护,维持；继续；维修；主张；供养
 
 
 
+###### add
 
+###### divide
+
+###### multiply
 
 ###### subtract
 
@@ -3360,11 +3431,14 @@ vt. 维护,维持；继续；维修；主张；供养
 
 ###### radius
 
-###### divide
-
-> Bit operations are divided into two groups
-
 ###### extreme
+
+​	英 [ɪkˈstri:m]   美 [ɪkˈstrim] 
+
+​	adj.  极端的，过激的; 极限的，非常的; 末端的; （政治上）急进的;
+
+​	n.  极端; 困境; [数]极限值; [常用复数]在两末端的事物;
+​	变形 复数: extremes
 
 > One of the biggest advantages of bitmaps is that they often provide extreme space savings when storing information.
 
@@ -3471,11 +3545,21 @@ vt. 维护,维持；继续；维修；主张；供养
 
 	> [Reactor](https://projectreactor.io/) is a highly optimized reactive library for building efficient, non-blocking applications on the JVM based on the [Reactive Streams Specification](https://github.com/reactive-streams/reactive-streams-jvm).
 
+​	英 [ɪˈfɪʃnt]   美 [ɪˈfɪʃənt] 
 
+​	adj.  有效率的; （直接）生效的; 能干的; （因省钱、省时或省力等而）收效大的;
 
 ###### interact
 
 > Lettuce is a scalable thread-safe Redis client based on [netty](http://netty.io/) and Reactor. Lettuce provides [synchronous](https://lettuce.io/core/release/reference/index.html#basic-usage), [asynchronous](https://lettuce.io/core/release/reference/index.html#asynchronous-api) and [reactive](https://lettuce.io/core/release/reference/index.html#reactive-api) APIs to interact with Redis.
+
+​	英 [ˌɪntərˈækt]   美 [ˌɪntɚˈækt] 
+
+​	v.  相互作用; 互相影响; 交流，沟通; 合作;
+
+​	变形 过去分词: interacted 过去式: interacted 现在分词: interacting 第三人称单数: interacts
+
+
 
 
 
@@ -3484,6 +3568,8 @@ vt. 维护,维持；继续；维修；主张；供养
 ###### force
 
 > The force would be composed of troops from NATO countries.
+>
+> ​	这支部队将由北约国家的部队组成。 
 
 
 
@@ -3499,7 +3585,9 @@ vt. 维护,维持；继续；维修；主张；供养
 
 > Spring Data provides dedicated messaging integration for Redis
 
+###### deduce
 
+###### reduce
 
 ###### translation
 
@@ -3509,17 +3597,689 @@ vt. 维护,维持；继续；维修；主张；供养
 
 > There are also a few Lettuce-specific connection parameters that can be tweaked.
 
-
-
 ###### interaction
 
 > Sometimes, direct interaction with one of the Sentinels is required.
+
+​	英 [ˌɪntər'ækʃn]   美 [ˌɪntɚˈækʃən] 
+
+​	n.  一起活动; 合作; 互相影响; 互动;
+
+​	变形 复数: interactions
 
 
 
 ###### intensive
 
 > as a convenient one-stop solution for intensive String operations.
+
+​	英 [ɪnˈtensɪv]   美 [ɪnˈtɛnsɪv] 
+
+​	adj.  加强的，强烈的; [农]精耕细作的; [语]加强语意的; （农业方法）集约的;
+
+​	n.  加强器; [语]强义词，强调成份;
+​	变形 复数: intensives
+
+
+
+
+
+
+
+##### 29th
+
+###### subject
+
+> subject to change	可能要改变
+
+###### tour
+
+> take a tour
+
+
+
+##### 30th
+
+> He who has conquered doubt and fear has conquered failure
+
+###### conquer
+
+​	英 [ˈkɒŋkə(r)]   美 [ˈkɑŋkə(r)] 
+
+	vt.  征服; 攻克; 打败（敌人）; 克服;
+​	vi.  得胜，胜利;
+​	变形 过去分词: conquered 过去式: conquered 现在分词: conquering 第三人称单数: conquers
+
+> He who has conquered doubt and fear has conquered failure
+
+
+
+###### sloth
+
+​	英 [sləʊθ]   美 [sloʊθ] 
+
+​	n.  懒散; 懒惰; <动>树獭; （经济）停滞;
+
+​	变形 复数: sloths
+
+
+
+###### expand
+
+	英 [ɪkˈspænd]   美 [ɪkˈspænd]  
+	 CET4 | CET6 | 考研 | IELTS | TOEFL | GRE
+vt.  使…变大; 扩张; 详述;
+vi.  扩展; 发展; 张开; 展开;
+变形 过去分词: expanded 过去式: expanded 现在分词: expanding 第三人称单数: expands
+
+> private void expand()
+
+
+
+###### stuff
+
+> ```
+> if we are here, means we have other stuff to do
+> ```
+
+
+
+###### migrate
+
+​	英 [maɪˈgreɪt]   美 [ˈmaɪgreɪt] 
+
+	vi.  迁移，移往; 移动; 随季节而移居;
+vt.  使移居; 使移植;
+变形 过去分词: migrated 过去式: migrated 现在分词: migrating 第三人称单数: migrates
+
+###### foreground
+
+###### interpret
+
+> By default, the list action interprets its pattern as if --fi																											xed-string was specified.
+
+​	英 [ɪnˈtɜ:prɪt]   美 [ɪnˈtɜrprɪt] 
+
+	vt.  解释; 理解; 诠释，体现; 口译;
+​	vi.  作解释; 作口译;
+​	变形 过去分词: interpreted 过去式: interpreted 现在分词: interpreting 第三人称单数: interprets
+
+#### October
+
+> I only pray our life be long,and our souls together heavenward fly
+
+##### 1th
+
+###### passenger
+
+> More than 30,000 drivers and front seat passengers are killed or seriously injured
+> each year
+
+​	英 [ˈpæsɪndʒə(r)]   美 [ˈpæsəndʒɚ] 
+
+​	n.  乘客，旅客; 行人，过路人; 碍手碍脚的人;
+
+​	变形 复数: passengers
+
+###### belt
+
+> Wearing a seat belt saves lives
+
+​	英 [belt]   美 [bɛlt] 
+
+​	n.  腰带; 区域; 传送带; 带状物;
+
+​	vt.  环绕，包围; 用带做记号; 用力打; 绕着系上带子;
+​	变形 过去分词: belted 复数: belts 过去式: belted 现在分词: belting 第三人称单数: belts
+
+###### life
+
+> 复述，lives
+
+###### fine
+
+> If you do not, you could be fined up to ￡50
+
+
+
+###### reverse
+
+
+
+######  vehicle
+
+> However, you do not have to wear a seat belt if you reversing your vehicle
+
+​	英 [ˈvi:əkl]   美 [ˈvi:əkl] 
+
+​	n.  车辆; 交通工具; 手段; 工具;
+
+​	变形 复数: vehicles
+
+###### circumstance
+
+> Make sure these circumstances
+> apply to you before you decide not to wear you seat belt
+
+​	英 [ˈsɜ:kəmstəns]   美 [ˈsɜrkəmstæns] 
+
+	n.  环境，境遇; 事实，细节; 典礼，仪式;
+​	vt.  使处于某种特定的情况之下;
+​	变形 过去分词: cicumstanced 复数: circumstances 过去式: cicumstanced 现在分词: cicumstancing 第三人称单数: circumstances
+
+
+
+
+
+###### court
+
+> Remember you may be taken to
+> court for not doing so
+
+​	英 [kɔ:t]   美 [kɔrt] 
+
+​	n.  法院，法庭; 院子，天井; 宫廷; 网球场;
+
+​	vt.  招致; 设法获得; 向…献殷勤; 追求;
+​	vi.  求爱，求婚; 寻求;
+​	变形 过去分词: courted 复数: courts 过去式: courted 现在分词: courting 第三人称单数: courts
+
+###### booklet
+
+> a government information booklet
+
+###### reason
+
+> Professor Taiju Matsuzawa wanted to find out why otherwise healthy farmers in
+> northern Japan appeared to be losing their ability to think and reason at a relatively early
+> age, and how the process of ageing could be slowed down.
+
+
+
+######  intellect 	
+
+​	intelligence
+
+​	intelligent
+
+
+
+###### intellectual
+
+​	英 [ˌɪntəˈlektʃuəl]   美 [ˌɪntlˈɛktʃuəl] 
+
+​	adj.  智力的; 有才智的; 需用智力的; 智力发达的;
+
+​	n.  知识分子; 脑力劳动者; 有极高智力的人; 凭理智（而非感情）办事的人;
+​	变形 复数: intellectuals
+
+
+
+###### emotional
+
+###### vary
+
+> With a team of colleagues at Tokyo National University, he set about measuring
+> brain volumes of a thousand people of different ages and varying occupations.
+
+​	英 [ˈveəri]   美 [ˈveri] 
+
+	vi.  变化; 不同，偏离; [生]变异;
+​	vt.  使不同; 使多样化; [音乐]变奏;
+​	变形 过去分词: varied 过去式: varied 现在分词: varying 第三人称单数: varies
+
+
+
+
+
+###### occupation
+
+> With a team of colleagues at Tokyo National University, he set about measuring
+> brain volumes of a thousand people of different ages and varying occupations.
+
+​	英 [ˌɒkjuˈpeɪʃn]   美 [ˌɑkjuˈpeɪʃn] 
+
+	n.  职业，工作; 占有，占领; （土地、房屋、建筑等的）使用;
+
+​	变形 复数: occupations
+
+
+
+###### volume
+
+> brain volume
+
+
+
+###### precise
+
+> Computer technology enabled the researchers to obtain precise measurements of the
+> volume of the front and side sections of the brain
+
+​	英 [prɪˈsaɪs]   美 [prɪˈsaɪs] 
+
+​	adj.  清晰的; 精确的; 正规的; 精密;
+
+
+
+###### emotion
+
+> Computer technology enabled the researchers to obtain precise measurements of the
+> volume of the front and side sections of the brain, which relate to intellect (智能) and
+> emotion
+
+###### age
+
+> we are ageing unnecessarily soon.
+>
+> ​	做动词，看看啥意思
+
+###### rear
+
+> The rear section of the brain
+
+​	后面的
+
+###### faculty
+
+> The rear section of the brain, which
+> controls functions like eating and breathing, does not contract with age, and one can
+> continue living without intellectual or emotional `faculties`
+
+​	英 [ˈfæklti]   美 [ˈfækəlti] 
+
+	n.  能力，才能; 全体教职员; <英>（大学的）专科，系; 特权，特许;
+
+​	变形 复数: faculties
+
+###### least
+
+> Those least at risk, says Matsuzawa, are lawyers, followed by university professors and doctors.
+
+
+
+###### official
+
+> On June 17, 1744, the officials from Maryland and Virginia held a talk with the
+> Indians of the Six Nations
+
+###### opinion
+
+###### proposal
+
+> We are convinced that you mean to do us good by your proposal
+
+​	英 [prəˈpəʊzl]   美 [prəˈpoʊzl]  
+
+	n.  提议; 建议; 求婚; 〈美〉投标;
+
+​	变形 复数: proposals
+
+######  heartily
+
+> we thank you heartily
+
+###### formerly
+
+> Several of our young people were formerly brought up at the colleges of the northern provinces
+
+​	原先的
+
+​	bring up长大，生长
+
+###### former
+
+###### wood
+
+###### woods
+
+###### mean
+
+###### means
+
+​	英 [mi:nz]   美 [minz] 
+
+	n.  方法; 手段; 收入; 财富;
+
+​	v.  意味着（ mean的第三人称单数）; 引起; 打算或注定要某人成为或做某事;
+
+###### ignorant of
+
+​	英 [ˈɪgnərənt]   美 [ˈɪɡnərənt] 
+
+​	adj.  无知的，愚昧的; 由无知引起的; 无学识的;
+
+###### polite
+
+###### politely
+
+######  pleasant
+
+######  inquiring
+
+###### inquire
+
+​	英 [ɪn'kwaɪə(r)]   美 [ɪnˈkwaɪr] 
+
+	vt.& vi.  打听，询问; 查究;
+
+​	变形 过去分词: inquired 过去式: inquired 现在分词: inquiring 第三人称单数: inquires
+
+
+
+
+
+##### 2th
+
+###### maize
+
+​	英 [meɪz]   美 [mez] 
+
+​	n.  玉米; 玉米色;
+
+###### tutorial
+
+​	英 [tju:ˈtɔ:riəl]   美 [tuˈtɔriəl] 
+
+​	n.  个别辅导时间; 教程，辅导材料; 使用说明书; 辅导课;
+​	adj.  导师的; 私人教师的; 辅导的;
+​	变形 复数: tutorials		
+
+
+
+###### appropriate
+
+> The most appropriate response would be (c) because the person in front of you is only a tourist trying to enjoy himself.
+
+​	英 [əˈprəʊpriət]   美 [əˈproʊpriət] 
+
+​	adj.  适当的; 恰当的; 合适的;
+
+​	v.  盗用; 侵吞; 拨（专款等） ;
+​	变形 过去分词: appropriated 过去式: appropriated 现在分词: appropriating 第三人称单数: appropriates
+
+
+
+
+
+###### portable
+
+> The device is said to he the world’s first portable transistor
+
+​	英 [ˈpɔ:təbl]   美 [ˈpɔrtəbl] 
+
+​	adj.  手提的; 轻便的;
+
+​	n.  手提式打字机;
+​	变形 复数: portables
+
+
+
+
+
+###### greet
+
+> greeting the German
+
+​	英 [gri:t]   美 [ɡrit] 
+
+​	vt.  欢迎，迎接; 致敬，致意; 打招呼; （景象，声音等）映入眼帘;
+
+​	变形 过去分词: greeted 过去式: greeted 现在分词: greeting 第三人称单数: greets
+
+
+
+
+
+###### great
+
+
+
+
+
+###### invention
+
+> The voice is an invention of an electronics company
+
+​	发明
+
+
+
+######  orbit
+
+> Colossal computer-controlled mirrors, thousands of feet across, may one day orbit the earth, reflecting sunlight onto a darkened United States.
+
+​	英 [ˈɔ:bɪt]   美 [ˈɔrbɪt] 
+
+​	n.  轨道; 势力范围; 眼眶; （人生的）旅程，生活过程;
+
+​	vt.& vi.  在…轨道上运行，环绕轨道运行;
+​	vi.  盘旋; 绕轨道运行;
+​	vt.  绕轨道而行; 进入轨道;
+​	变形 过去分词: orbited 复数: orbits 过去式: orbited 现在分词: orbiting 第三人称单数: orbits		
+
+
+
+###### spot
+
+> That way, the mirrors would always be over the same spot
+
+​	英 [spɒt]   美 [spɑt] 
+
+​	n.  地点，场所; 斑点，污点; [股票]现货; 职位，职务;
+
+​	v.  弄上污渍，弄上斑点; 污辱，玷污; 认出，发现; 散步;
+​	adj.  现场的; 现货的; 插播的;
+​	abbr.  satellite positioning and tracking 卫星定位和跟踪;
+​	变形 过去分词: spotted 复数: spots 过去式: spotted 现在分词: spotting 第三人称单数: spots
+
+
+
+`put on the spot`	:	使处于困境
+
+> Even clever people are not terribly clever when put on the spot.  
+> 	即便是聪明人在面对难题时也未必就能表现得特别聪明。
+
+
+
+
+
+
+
+###### fold
+
+> The aluminum-coated (涂铝的), plastic mirrors could be folded up and packed into a spaceship
+
+​	英 [fəʊld]   美 [foʊld]
+
+​	vt.  折叠; 合拢; 抱住; 笼罩;
+
+​	vi.  折叠起来; 彻底失败;
+​	n.  折痕; 信徒; 羊栏; （起伏地的）凹处，洼;
+​	变形 过去分词: folded 过去式: folded 现在分词: folding 第三人称单数: folds
+
+
+
+
+
+###### pack
+
+> The aluminum-coated (涂铝的), plastic mirrors could be folded up and packed into a spaceship
+
+
+
+
+
+###### sweep
+
+> so the reflected sunlight would sweep slowly along the surface of the earth
+
+​	打扫
+
+
+
+###### surface
+
+> so the reflected sunlight would sweep slowly along the surface of the earth
+
+​	英 [ˈsɜ:fɪs]   美 [ˈsɜrfɪs] 
+
+​	n.  表面; 外观，外表; 地面，水面;
+
+​	vi.  浮出水面; 在表面工作; 显露;
+​	vt.  使浮出水面; 使成平面;
+​	变形 过去分词: surfaced 复数: surfaces 过去式: surfaced 现在分词: surfacing 第三人称单数: surfaces
+
+
+
+###### tilt
+
+> For example, as night fell, the mirrors could be tilted to light up Boston
+
+​	英 [tɪlt]   美 [tɪlt] 
+
+​	vt.  使倾斜; （在马上）拿枪扎; 抨击，攻击;
+
+​	vi.  倾斜; 〈美〉有倾向性，偏袒; 抨击;
+​	n.  倾斜，歪斜; 斜坡，坡度; 马上刺枪比赛; 跳动锤，落锤;
+​	变形 过去分词: tilted 复数: tilts 过去式: tilted 现在分词: tilting 第三人称单数: tilts
+
+
+
+###### account
+
+>  gives an objective account of the mirrors
+
+​	账户，解释，描述
+
+
+
+###### agriculture
+
+> As supplier of most of the food we eat and of raw materials for many industrial
+> processes, agriculture is clearly an important area of the economy.
+
+​	农业
+
+
+
+###### economy
+
+> As supplier of most of the food we eat and of raw materials for many industrial
+> processes, agriculture is clearly an important area of the economy.
+
+​	经济
+
+######  economic 
+
+> For in nations where the productivity of farmers is low, most of the working population is needed to raise food
+> and few people are available for production of investment goods or for other activities required for economic growth
+
+​	经济的
+
+
+
+###### indeed
+
+> Indeed, one of the factors related most closely to the per capital income (人均收入) of a nation is the fraction of its population engaged in farming
+
+​	确实
+
+
+
+
+
+
+
+###### fraction
+
+​	英 [ˈfrækʃn]   美 [ˈfrækʃən]  
+
+​	n.  [数]分数; 一小部分，些微; 不相连的一块，片段; [化]分馏;
+
+​	变形 复数: fractions	
+
+###### engage
+
+​	英 [ɪnˈgeɪdʒ]   美 [ɪn'gedʒ] 
+
+​	vt.  吸引住; 聘用、雇佣; 与…交战; 使全神贯注、引起注意;
+
+​	vi.  与…建立密切关系; 衔接; 参与; 紧密结合;
+​	变形 过去分词: engaged 过去式: engaged 现在分词: engaging 第三人称单数: engages
+
+
+
+###### sharply
+
+> This compares sharply with less than 10 per cent in Western Europe and less than 4 per cent in the United States.
+
+​	英 [ˈʃɑ:pli]   美 [ˈʃɑrpli] 
+
+​	adv.  严厉地; 明确地; 锋利地; 突然地;
+
+###### fundamental
+
+> In short, the course of economic development in general depends in a fundamental way on the performance of farmers.
+
+​	英 [ˌfʌndəˈmentl]   美 [ˌfʌndəˈmɛntl] 
+
+​	adj.  基础的，基本的，根本的，重要的，原始的，主要的，十分重大的; [物]基频的，基谐波的; [乐]基音的;
+
+​	n.  原理，原则，基本，根本，基础; [乐]基音; [物]基频，基谐波;	
+
+###### principle
+
+​	原理
+
+​	What is the principle of this thing
+
+######  investment 
+
+>  the production of investment goods
+
+​	英 [ɪnˈvestmənt]   美 [ɪnˈvɛstmənt] 
+
+​	n.  投资，投资额; 封锁; （时间、精力的）投入; 值得买的东西;
+
+​	变形 复数: investments
+
+###### invest
+
+
+
+> MBeans are designed to be flexible, simple, and easy to implement. Developers of applications, systems, and networks can make their products manageable in a standard way without having to understand or invest in complex management systems
+
+
+
+######  provision 
+
+> the provision of food and raw materials
+
+​	英 [prəˈvɪʒn]   美 [prəˈvɪʒən] 
+
+​	n.  规定，条项，条款; 预备，准备，设备; 供应，（一批）供应品; 生活物质，储备物资;
+​	vt.& vi.  为…提供所需物品（尤指食物）;
+​	变形 复数: provisions	
+
+
+
+###### dawn
+
+> At dawn on July 16, 1945
+
+###### release
+
+> Never before had men(到装了) released so much power at one time
+
+###### possess
+
+> Never before had men released so much power at one time, nor(在中间) had any nation ever possessed weapon
+> as terrible and destructive as the atomic bomb
+
+
+
+
 
 
 

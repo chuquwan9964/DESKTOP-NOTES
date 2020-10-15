@@ -1059,8 +1059,6 @@ myBatisGenerator.generate(null);
 
 ##### 自动获取自增主键值
 
-
-
 #### 主要CRUD
 
 ##### deleteByMap(Map\<String,Object\>)
@@ -1071,7 +1069,7 @@ myBatisGenerator.generate(null);
 
 ​	根据map查找
 
-```
+```java
 EmployeeMapper mapper = context.getBean(EmployeeMapper.class);
 HashMap<String, Object> map = new HashMap<>();
 //一定要是字段名
@@ -1098,7 +1096,7 @@ employees.forEach(System.out::println);
 
 ###### idType
 
-###### ​	配置数据库的主键生成策略
+###### 	配置数据库的主键生成策略
 
 ###### tablePrefix
 
