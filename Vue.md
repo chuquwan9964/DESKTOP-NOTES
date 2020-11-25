@@ -22,13 +22,13 @@
 
 ​	比如firstName和lastName要拼接在一起，中间有一个空格，你可能会这么做：
 
-```
+```html
 <h2>{{firstName + ' ' + lastName}}</h2>
 ```
 
 ​	或
 
-```
+```html
 <h2>{{firstName}} {{lastName}}</h2>
 ```
 
@@ -851,7 +851,7 @@ props: {
   }
   ```
 
-  ​
+  
 
 ```
 <body>
