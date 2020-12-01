@@ -645,7 +645,7 @@ component2.$bus.$on('event_name',callback);	//监听者
 
 ###### 父子组件
 
-```
+```vue
 <body>
 <div id="app">
     <p-cpn></p-cpn>
