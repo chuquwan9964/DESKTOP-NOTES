@@ -22,13 +22,13 @@
 
 ​	比如firstName和lastName要拼接在一起，中间有一个空格，你可能会这么做：
 
-```
+```html
 <h2>{{firstName + ' ' + lastName}}</h2>
 ```
 
 ​	或
 
-```
+```html
 <h2>{{firstName}} {{lastName}}</h2>
 ```
 
@@ -645,7 +645,7 @@ component2.$bus.$on('event_name',callback);	//监听者
 
 ###### 父子组件
 
-```
+```vue
 <body>
 <div id="app">
     <p-cpn></p-cpn>
@@ -851,7 +851,7 @@ props: {
   }
   ```
 
-  ​
+  
 
 ```
 <body>

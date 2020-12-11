@@ -54,9 +54,23 @@ yum install -y docker-ce
 
 ###### docker image ls
 
+​	列出所有已下载到本地的镜像
+
 docker image pull
 
+​	从远程仓库拉取一个镜像
+
+```shell
+docker image pull nginx:1.14-alpine
+```
+
 docker image inspect
+
+​	列出某个镜像的详细信息
+
+```bash
+docker image inspect nginx:1.14-alpine
+```
 
 docker image load
 
@@ -67,6 +81,14 @@ docker image push
 docker image tag
 
 docker image rm
+
+​	删除一个镜像
+
+```bash
+docker image rm nginx:1.14-alpine
+```
+
+
 
 docker image build
 
@@ -86,25 +108,49 @@ docker container commit
 
 docker container create
 
+​	创建一个容器，此时容器处于created状态
+
+```bash
+docker container create nginx:1.14-alpine
+```
+
 docker container stop
 
+​	停止容器
+
 docker container start
+
+​	start一个或多个容器
 
 docker container restart
 
 docker container rm
 
+​	删除一个或多个容器，容器必须是处于停止状态
+
 docker container exec
 
+​	在容器中运行一个命令
+
 docker container kill
+
+​	删除一个容器
 
 docker container top
 
 docker container inspect
 
+​	列出容器的详细信息
+
 docker container stats
 
 ##### docker run
+
+```bash
+docker run == docker create + docker start
+```
+
+
 
 docker run -i
 
