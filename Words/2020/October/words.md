@@ -3261,7 +3261,7 @@ vt. 维护,维持；继续；维修；主张；供养
 
 ###### inspiration
 
-	> I find the library a bit too quiet. I’d lack inspiration or stimulation, which would be counter-productive to getting a lot of work done.
+> I find the library a bit too quiet. I’d lack inspiration or stimulation, which would be counter-productive to getting a lot of work done.
 
 ​	英 [ˌɪnspəˈreɪʃn]   美 [ˌɪnspəˈreʃən] 
 
@@ -3619,10 +3619,6 @@ vt. 维护,维持；继续；维修；主张；供养
 
 ​	n.  加强器; [语]强义词，强调成份;
 ​	变形 复数: intensives
-
-
-
-
 
 
 
